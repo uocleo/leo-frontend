@@ -61,15 +61,29 @@ $(".hover").mouseleave(
 );
 
 
-$(document).ready(function(){
-	$("#testimonial-slider").owlCarousel({
-		items:1,
-		itemsDesktop:[1000,1],
-		itemsDesktopSmall:[979,1],
-		itemsTablet:[768,1],
-		pagination:false,
-		navigation:true,
-		navigationText:["",""],
-		autoPlay:true
+
+
+
+$(document).ready(function() {
+	$(".loader").delay(5000).fadeOut("slow");
+	$(".loader-wrapper").delay(5000).fadeOut("slow");
+});
+
+
+
+setInterval(function() {
+	var currentSlide = document.querySelector('.slider__nav:checked');
+	var nextSlide = currentSlide.nextElementSibling || document.querySelector('.slider__nav');
+	nextSlide.checked = true;
+}, 5000);
+
+
+document.addEventListener('DOMContentLoaded', () => {
+	const goTopBtn = document.querySelector('.go_top');
+	goTopBtn.addEventListener('click', () => {
+		window.scrollTo({
+			top: 0,
+			behavior: 'smooth'
+		});
 	});
 });
