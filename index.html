@@ -5,6 +5,9 @@
     <title>Leo Club of University of Colombo</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/index.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+    <script src="https://md-aqil.github.io/images/swiper.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/index.js"></script>
 </head>
@@ -15,7 +18,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="./public/logo-colour-new.png" alt="" height="60" class="d-inline-block align-text-top">
+                <img src="./public/logo-colour-new.png" alt="" height="60" class="d-inline-block align-text-top" id="logo">
             </a>
             <button
                     class="navbar-toggler"
@@ -31,22 +34,22 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">About Us</a>
+                        <a class="nav-link" href="#about-us">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Impact</a>
+                        <a class="nav-link" href="#impact">Impact</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Movement</a>
+                        <a class="nav-link" href="#movement">Movement</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Our Essence</a>
+                        <a class="nav-link" href="#our-essence">Our Essence</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Blog</a>
+                        <a class="nav-link" href="#blog">Blog</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Join Us</a>
+                        <a class="nav-link" href="#join-us">Join Us</a>
                     </li>
                 </ul>
             </div>
@@ -84,7 +87,162 @@
 
 
 <!-- about us section -->
+<div id="about-us" class="about-us container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center">About Us</h1>
+            <p class="text-center my-2 col-md-8 mx-auto">
+                Leo Club of University of Colombo is an affiliate of Leo Club International that focuses on to provide the youth of the world with an opportunity for development and contribution, individually and collectively, as responsible members of the local, national and international community. The club open to undergraduates from all faculties at the University of Colombo and the club provides a friendly environment for members to improve their leadership skills as a project organizer, team leader and procure the experience while learning how teamwork, cooperation and collaboration can bring exciting changes to community and the world. Further the club provides the opportunity to make friends and feel the rewards of community service.
+            </p>
+        </div>
+    </div>
+</div>
 
+<section id="counter-stats" class="wow fadeInRight" data-wow-duration="1.4s">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-3 stats">
+                <i class="fa fa-users" aria-hidden="true"></i>
+                <div class="counting" data-count="200">0</div>
+                <h5>Members</h5>
+            </div>
+
+            <div class="col-lg-3 stats">
+                <i class="fa fa-tasks" aria-hidden="true"></i>
+                <div class="counting" data-count="30">0</div>
+                <h5>Projects</h5>
+            </div>
+
+            <div class="col-lg-3 stats">
+                <i class="fa fa-hourglass-start" aria-hidden="true"></i>
+                <div class="counting" data-count="8">0</div>
+                <h5>Years</h5>
+            </div>
+
+            <div class="col-lg-3 stats">
+                <i class="fa fa-university" aria-hidden="true"></i>
+                <div class="counting" data-count="8">0</div>
+                <h5>Faculties</h5>
+            </div>
+
+
+        </div>
+        <!-- end row -->
+    </div>
+    <!-- end container -->
+
+</section>
+
+
+<!-- impact section -->
+<div id="impact" class="impact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">Impact</h1>
+                <p class="text-center my-2 col-md-8 mx-auto">
+                    Leo Club of University of Colombo is an affiliate of Leo Club International that focuses on to provide the youth of the world with an opportunity for development and contribution, individually and collectively, as responsible members of the local, national and international community. The club open to undergraduates from all faculties at the University of Colombo and the club provides a friendly environment for members to improve their leadership skills as a project organizer, team leader and procure the experience while learning how teamwork, cooperation and collaboration can bring exciting changes to community and the world. Further the club provides the opportunity to make friends and feel the rewards of community service.
+                Leo Club of University of Colombo is an affiliate of Leo Club International that focuses on to provide the youth of the world with an opportunity for development and contribution, individually and collectively, as responsible members of the local, national and international community. The club open to undergraduates from all faculties at the University of Colombo and the club provides a friendly environment for members to improve their leadership skills as a project organizer, team leader and procure the experience while learning how teamwork, cooperation and collaboration can bring exciting changes to community and the world. Further the club provides the opportunity to make friends and feel the rewards of community service.
+            </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="gallery">
+    <div class="gallery__column">
+        <a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/_cvwXhGqG-o/300x300" alt="Portrait by Jessica Felicio" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Jessica Felicio</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@oladimeg" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/AHBvAIVqk64/300x500" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@a2eorigins" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/VLPLo-GtrIE/300x300" alt="Portrait by Alex Perez" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Alex Perez</figcaption>
+            </figure>
+        </a>
+    </div>
+
+    <div class="gallery__column">
+        <a href="https://unsplash.com/@noahbuscher" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/AR7aumwKr2s/300x300" alt="Portrait by Noah Buscher" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Noah Buscher</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@von_co" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/dnL6ZIpht2s/300x300" alt="Portrait by Ivana Cajina" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Ivana Cajina</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@samburriss" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/tV_1sC603zA/300x500" alt="Portrait by Sam Burriss" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Sam Burriss</figcaption>
+            </figure>
+        </a>
+    </div>
+
+    <div class="gallery__column">
+        <a href="https://unsplash.com/@marilezhava" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/Xm9-vA_bhm0/300x500" alt="Portrait by Mari Lezhava" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Mari Lezhava</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@ethanhaddox" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/NTjSR3zYpsY/300x300" alt="Portrait by Ethan Haddox" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Ethan Haddox</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@mr_geshani" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/2JH8d3ChNec/300x300" alt="Portrait by Amir Geshani" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Amir Geshani</figcaption>
+            </figure>
+        </a>
+    </div>
+
+    <div class="gallery__column">
+        <a href="https://unsplash.com/@frxgui" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/FQhLLehm4dk/300x300" alt="Portrait by Guilian Fremaux" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Guilian Fremaux</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@majestical_jasmin" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/OQd9zONSx7s/300x300" alt="Portrait by Jasmin Chew" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Jasmin Chew</figcaption>
+            </figure>
+        </a>
+
+        <a href="https://unsplash.com/@dimadallacqua" target="_blank" class="gallery__link">
+            <figure class="gallery__thumb">
+                <img src="https://source.unsplash.com/XZkEhowjx8k/300x500" alt="Portrait by Dima DallAcqua" class="gallery__image">
+                <figcaption class="gallery__caption">Portrait by Dima DallAcqua</figcaption>
+            </figure>
+        </a>
+    </div>
+</div>
 
 
 </body>
