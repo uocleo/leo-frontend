@@ -17,7 +17,9 @@
 </head>
 <body>
 
-<div class="loader"></div>
+<div class="loader-wrapper">
+    <div class="loader"></div>
+</div>
 
 <!-- header -->
 <header>
@@ -295,6 +297,7 @@
 <script>
 	$(document).ready(function() {
 		$(".loader").delay(5000).fadeOut("slow");
+		$(".loader-wrapper").delay(5000).fadeOut("slow");
 	});
 </script>
 
