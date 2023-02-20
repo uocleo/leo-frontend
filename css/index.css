@@ -205,7 +205,7 @@ header {
 .about-us {
     margin-top: 5rem;
     background-color: #F4F4F4;
-    padding: 2rem 1rem;
+    padding: 10vh 1rem 2rem;
     text-align: center;
 }
 
@@ -253,6 +253,7 @@ section#counter-stats {
     align-items: center;
     margin-top: 10vh;
     margin-bottom: 5vh;
+    padding-top: 10vh;
 }
 
 .impact h1 {
