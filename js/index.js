@@ -6,40 +6,43 @@ $(window).scroll(function () {
 		wH = $(window).height(),
 		wS = $(this).scrollTop();
 	if (wS > (hT + hH - wH)) {
-		$('.counting').each(function () {
-			var $this = $(this),
-				countTo = $this.attr('data-count');
+		// wait for 5 seconds
+		// then run the code
+		setTimeout(function () {
+			// do something after 5 seconds
+			$('.counting').each(function () {
+				var $this = $(this),
+					countTo = $this.attr('data-count');
 
-			$({countNum: $this.text()}).animate({
-					countNum: countTo
-				},
-
-				{
-
-					duration: 3000,
-					easing: 'linear',
-					step: function () {
-						$this.text(Math.floor(this.countNum));
+				$({countNum: $this.text()}).animate({
+						countNum: countTo
 					},
-					complete: function () {
-						$this.text(this.countNum);
-						//alert('finished');
-					}
 
-				});
+					{
+
+						duration: 3000,
+						easing: 'linear',
+						step: function () {
+							$this.text(Math.floor(this.countNum));
+						},
+						complete: function () {
+							$this.text(this.countNum);
+							//alert('finished');
+						}
+
+					});
 
 
-		});
+			});
+		} , 1000);
+
 	}
 
 });
 
 // if scrolled more than 100px from the top then add class "bg-dark" to the header remove "bg-dark" when not
 $(window).scroll(function () {
-
-
-
-	if ($(this).scrollTop() > 100) {
+	if ($(this).scrollTop() > 920) {
 		$('header').addClass('bg-dark');
 		$('header').removeClass('bg-light');
 		document.getElementById("logo").src = "./public/logo-colour.png";
@@ -49,3 +52,10 @@ $(window).scroll(function () {
 		document.getElementById("logo").src = "./public/logo-colour-new.png";
 	}
 });
+
+
+$(".hover").mouseleave(
+	function () {
+		$(this).removeClass("hover");
+	}
+);
