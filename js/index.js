@@ -62,8 +62,8 @@ $(".hover").mouseleave(
 
 
 $(document).ready(function () {
-	$(".loader").delay(5000).fadeOut("slow");
-	$(".loader-wrapper").delay(5000).fadeOut("slow");
+	$(".loader").delay(50).fadeOut("slow");
+	$(".loader-wrapper").delay(50).fadeOut("slow");
 });
 
 
