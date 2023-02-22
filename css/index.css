@@ -47,11 +47,11 @@ body {
 
 }
 
-.launch-now__content__title {
+.launch-now__content__title h1{
     font-size: 2.5rem;
     font-weight: 700;
     margin: 1.5rem;
-    color: var(--primary-color);
+    color: var(--primary-color) !important;
 }
 
 .launch-now__content__description {
@@ -86,15 +86,6 @@ body {
     background-color: var(--secondary-color);
 }
 
-canvas {
-    width: 100%;
-    height: 100%;
-}
-
-
-body {
-    background-color: #222;
-}
 
 h1 {
     display: flex;
