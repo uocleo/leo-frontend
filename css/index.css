@@ -799,3 +799,80 @@ footer .widget-about .contact-details li a {
     line-height: 1.4;
     margin-bottom: 50px !important;
 }
+
+
+
+
+
+
+
+
+
+
+
+.join-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.subscribe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 945px;
+    height: 474px;
+}
+
+
+.subscribe__title {
+    font-weight: bold;
+    font-size: 26px;
+    margin-bottom: 18px;
+}
+
+.subscribe__copy {
+    max-width: 450px;
+    text-align: center;
+    margin-bottom: 53px;
+    line-height: 1.5;
+}
+
+.form {
+    margin-bottom: 25px;
+}
+
+.form__email {
+    padding: 20px 25px;
+    border-radius: 5px;
+    border: 1px solid #CAD3DB;
+    width: 431px;
+    font-size: 18px;
+    color: #0F121F;
+}
+
+.form__email:focus {
+    outline: 1px solid var(--primary-color);
+}
+
+.form__button {
+    background:  var(--primary-color);
+    padding: 10px;
+    border: none;
+    width: 244px;
+    height: 65px;
+    border-radius: 5px;
+    font-size: 18px;
+    color: black;
+    box-shadow: 0 4px 20px var(--primary-color);
+}
+
+.form__button:hover {
+    box-shadow: 0 10px 20px var(--primary-color);
+}
+
+.notice {
+    width: 345px;
+}
