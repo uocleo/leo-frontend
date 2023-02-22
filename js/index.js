@@ -187,3 +187,129 @@ $(document).ready(function () {
 
 	window.onload = displayTestimonial;
 });
+
+
+// Newsletters
+
+
+$(document).ready(function () {
+
+	// console log the function caller
+	console.log(this);
+
+	const newslettersArray = [
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Special Issue",
+			"name": "Our Essence Volume 05 Special Issue",
+			"description": "Check out the Special Issue of Volume 05 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2022/23.✨",
+			"url": "https://anyflip.com/mrfst/vdcu/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_SP_Issue.jpg",
+			"pdf": "https://anyflip.com/mrfst/vdcu/"
+		},
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 06",
+			"name": "Our Essence Volume 05 Issue 06",
+			"description": "We are Leos. We are not only serving ourselves; we all are for others. We all have lives but Leos have bright lives because they have to light up others’ lives too We are experiencing different kinds of experiences in this Leoism journey. We are learning lessons from past experiences and making our future successful.",
+			"url": "https://anyflip.com/mrfst/kbpn/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue06.jpg",
+			"pdf": "https://anyflip.com/mrfst/kbpn/"
+		},
+		{
+
+			// TODO: Add volume 5 issue 5
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 05",
+			"name": "Our Essence Volume 05 Issue 05",
+			"description": "Our Essence’ can be shown as a monthly newsletter that brings the essence of the rich and strong thoughts of our social activists of Leo Club of UOC, which consists of a group of young leaders and undergraduates with various talents. This reflects our strength; our wealth as a social organisation. ",
+			"url": "https://anyflip.com/mrfst/zodm/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue05.jpg",
+			"pdf": "https://anyflip.com/mrfst/zodm/"
+		},
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 04",
+			"name": "Our Essence Volume 05 Issue 04",
+			"description": "Our Essence’ can be shown as a monthly newsletter that brings the essence of the rich and strong thoughts of our social activists of Leo Club of UOC, which consists of a group of young leaders and undergraduates with various talents. This reflects our strength; our wealth as a social organisation. ",
+			"url": "https://anyflip.com/mrfst/zodm/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue04.jpg",
+			"pdf": "https://anyflip.com/mrfst/zodm/"
+		},
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 03",
+			"name": "Our Essence Volume 05 Issue 03",
+			"description": "Far more significant is the fact that we are always ready to extend our helping hand in order to fulfil our mission throughout your future endeavours.",
+			"url": "https://anyflip.com/mrfst/zodm/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue03.jpg",
+			"pdf": "https://anyflip.com/mrfst/zodm/"
+		},
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 02",
+			"name": "Our Essence Volume 05 Issue 02",
+			"description": "A surprising audience showed up for the meeting as a consequence of the effective PR campaign that was run, which stoked excitement in the great event.",
+			"url": "https://anyflip.com/mrfst/ycup/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue02.jpg",
+			"pdf": "https://anyflip.com/mrfst/ycup/"
+		},
+		{
+			"class": "bg-warning-soft",
+			"tag": "Volume 05 Issue 01",
+			"name": "Our Essence Volume 05 Issue 01",
+			"description": "With excitement, we are declaring the beginning of OUR ESSENCE - VOLUME 5 for the Leoistic year 2022/23.",
+			"url": "https://anyflip.com/mrfst/zodm/",
+			"image": "./public/images/newsletters/Our_Essence_Vol05_Issue01.jpg",
+			"pdf": "https://anyflip.com/mrfst/zodm/"
+		},
+	]
+
+	console.log(newslettersArray);
+
+
+	// Get the first four newsletters
+	const newsletters = newslettersArray.slice(0, 4);
+	console.log(newsletters);
+
+	const newsletterContainer = document.getElementById('newsletter-container');
+
+	let i = 0;
+
+// Loop through the newsletters array
+	newsletters.forEach(newsletter => {
+
+		if (i <= 3) {
+
+			// Create card elements
+			const card = document.createElement('a');
+			const cardBackground = document.createElement('div');
+			const cardContent = document.createElement('div');
+			const cardCategory = document.createElement('p');
+			const cardHeading = document.createElement('h3');
+
+			// Add classes and attributes to elements
+			card.classList.add('card');
+			card.href = newsletter.url;
+			cardBackground.classList.add('card__background');
+			cardBackground.style.backgroundImage = `url(${newsletter.image})`;
+			cardContent.classList.add('card__content');
+			cardCategory.classList.add('card__category');
+			cardCategory.textContent = newsletter.tag;
+			cardHeading.classList.add('card__heading');
+			cardHeading.textContent = newsletter.name;
+
+			// Append elements to card
+			cardContent.appendChild(cardCategory);
+			cardContent.appendChild(cardHeading);
+			card.appendChild(cardBackground);
+			card.appendChild(cardContent);
+
+			// Append card to container
+			newsletterContainer.appendChild(card);
+
+			i++;
+		}
+	});
+
+});
