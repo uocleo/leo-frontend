@@ -67,7 +67,7 @@ $(".hover").mouseleave(
 // });
 
 window.addEventListener('load', function () {
-		$(".loader").delay(1000).fadeOut("slow");
+	$(".loader").delay(1000).fadeOut("slow");
 	$(".loader-wrapper").delay(1000).fadeOut("slow");
 
 	// if the screen is less than 768px then add class "bg-dark" to the header
@@ -79,7 +79,7 @@ window.addEventListener('load', function () {
 		setTimeout(function () {
 			// do something after 5 seconds
 			useDesktop.style.display = "none";
-		} , 10000);
+		}, 10000);
 
 
 	}
