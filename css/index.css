@@ -800,6 +800,46 @@ footer .widget-about .contact-details li a {
     margin-bottom: 50px !important;
 }
 
+.use-desktop {
+    display: none;
+}
+
+/*if max-width is 960px, then display block*/
+@media screen and (max-width: 960px) {
+    .loader-wrapper {
+        display: none;
+    }
+
+    .use-desktop {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background: black;
+        color: var(--primary-color);
+        text-align: center;
+        padding: 20px;
+        font-size: 1.2rem;
+        z-index: 999;
+    }
+
+    .use-desktop h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .use-desktop svg {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 20px;
+        color: var(--primary-color);
+    }
+}
 
 
 

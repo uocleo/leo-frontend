@@ -61,11 +61,29 @@ $(".hover").mouseleave(
 );
 
 
-$(document).ready(function () {
-	$(".loader").delay(50).fadeOut("slow");
-	$(".loader-wrapper").delay(50).fadeOut("slow");
-});
+// $(document).ready(function () {
+// 	$(".loader").delay(50).fadeOut("slow");
+// 	$(".loader-wrapper").delay(50).fadeOut("slow");
+// });
 
+window.addEventListener('load', function () {
+		$(".loader").delay(1000).fadeOut("slow");
+	$(".loader-wrapper").delay(1000).fadeOut("slow");
+
+	// if the screen is less than 768px then add class "bg-dark" to the header
+	if ($(window).width() < 768) {
+
+		var useDesktop = document.getElementById("use-desktop");
+		// wait for 5 seconds
+		// then run the code
+		setTimeout(function () {
+			// do something after 5 seconds
+			useDesktop.style.display = "none";
+		} , 10000);
+
+
+	}
+});
 
 setInterval(function () {
 	var currentSlide = document.querySelector('.slider__nav:checked');
