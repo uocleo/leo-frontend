@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -r ./* /vercel/output/
+cp -r ./* /vercel/output
