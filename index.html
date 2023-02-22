@@ -11,8 +11,11 @@
     <link rel="stylesheet" href="./css/index.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
 
+    <script src="./particles.js"></script>
+
 </head>
 <body>
+
 
 <div class="launch-now">
     <div class="launch-now__content">
@@ -26,17 +29,16 @@
                 development. The club is a part of the Leo District C1 </p>
         </div>
         <div class="launch-now__content__button-feed">
-            <a href="" class="launch-now__content__button">Visit Our Website</a>
+            <button class="launch-now__content__button">Visit Our Website</button>
         </div>
     </div>
 </div>
-
 
 <script>
 	const visitOurWebsiteBtn = document.querySelector(".launch-now__content__button");
 	visitOurWebsiteBtn.addEventListener("click", function() {
 		console.log("clicked");
-		window.location.href = "https://www.uocleos.org";
+		window.location.replace("https://www.uocleos.org/");
 	});
 </script>
 

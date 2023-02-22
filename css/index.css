@@ -81,3 +81,8 @@ body {
 .launch-now__content__button:hover {
     background-color: var(--secondary-color);
 }
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
