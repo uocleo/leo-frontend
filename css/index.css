@@ -828,49 +828,6 @@ footer .widget-about .contact-details li a {
     margin: 2rem auto !important;
 }
 
-.use-desktop {
-    display: none;
-}
-
-/*if max-width is 960px, then display block*/
-@media screen and (max-width: 960px) {
-    .loader-wrapper {
-        display: none;
-    }
-
-    .use-desktop {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100vw;
-        height: 100vh;
-        background: black;
-        color: var(--primary-color);
-        text-align: center;
-        padding: 20px;
-        font-size: 1.2rem;
-        z-index: 999;
-    }
-
-    .use-desktop h1 {
-        font-size: 2rem;
-        margin-bottom: 20px;
-    }
-
-    .use-desktop svg {
-        width: 100px;
-        height: 100px;
-        margin-bottom: 20px;
-        color: var(--primary-color);
-    }
-}
-
-
-
 
 
 
@@ -947,4 +904,78 @@ footer .widget-about .contact-details li a {
 
 .notice {
     width: 345px;
+}
+
+
+.modal-body {
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.modal-body h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+    color: #F0A500;
+}
+
+.modal-body h2 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+    color: #F0A500;
+}
+
+.modal-body p {
+    font-size: 1rem;
+    font-weight: 500;
+    text-align: justify;
+    line-height: 1.5;
+    color: #0F121F;
+}
+
+
+
+
+
+/*!*if the browser is mobile then start*/
+@media screen and (max-width: 768px) {
+    .loader-wrapper {
+        display: none;
+    }
+
+    #use-desktop {
+        /*show this div on mobile with 100vw and 100vh nothing else*/
+        position: fixed;
+        top: 0;
+        left: 0;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        color: var(--primary-color);
+        background-color: black;
+        z-index: 999;
+
+    }
+
+    .use-desktop h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .use-desktop svg {
+        width: 100px;
+        height: 100px;
+        margin-bottom: 20px;
+        color: var(--primary-color);
+    }
 }

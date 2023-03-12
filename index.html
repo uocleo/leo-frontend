@@ -182,11 +182,12 @@
 </div>
 
 <div class="gallery">
+    <div id="project-details"></div>
 
 
     <div class="gallery__column">
 
-        <a href="#" target="_blank" class="gallery__link">
+        <a target="_blank" class="gallery__link" onclick="showDetailsOnClickProject('Plant a Hope 5.0')">
             <figure class="gallery__thumb">
                 <img src="./public/images/projects/FB_IMG_1676940566814.jpg" alt="Plant a Hope 5.0"
                      class="gallery__image">
@@ -223,7 +224,7 @@
             </figure>
         </a>
 
-        <a href="#" target="_blank" class="gallery__link">
+        <a class="gallery__link" onclick="showDetailsOnClickProject('Survival 5.0')">
             <figure class="gallery__thumb">
                 <img src="./public/images/projects/FB_IMG_1676940692995.jpg" alt="Portrait by Oladimeji Odunsi"
                      class="gallery__image">
@@ -231,11 +232,11 @@
             </figure>
         </a>
 
-        <a href="#" target="_blank" class="gallery__link">
+        <a class="gallery__link" onclick="showDetailsOnClickProject('UOC Leos Get-Together 23')">
             <figure class="gallery__thumb">
-                <img src="./public/images/projects/FB_IMG_1676940702364.jpg" alt="Portrait by Alex Perez"
+                <img src="./public/images/projects/uoc_leo_get_together_23.jpg" alt="Portrait by Alex Perez"
                      class="gallery__image">
-                <figcaption class="gallery__caption">Survival 5.0</figcaption>
+                <figcaption class="gallery__caption">Get Together</figcaption>
             </figure>
         </a>
 
@@ -403,49 +404,6 @@
                 <input type="email" class="form__email" placeholder="Enter your email address"/>
             </label>
             <button class="form__button">Send</button>
-        </div>
-    </div>
-</div>
-
-
-<div class="use-desktop" id="use-desktop">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg" fill="#F0A500FF">
-                    <circle cx="15" cy="15" r="15">
-                        <animate attributeName="r" from="15" to="15"
-                                 begin="0s" dur="0.8s"
-                                 values="15;9;15" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                        <animate attributeName="fill-opacity" from="1" to="1"
-                                 begin="0s" dur="0.8s"
-                                 values="1;.5;1" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                    </circle>
-                    <circle cx="60" cy="15" r="9" fill-opacity="0.3">
-                        <animate attributeName="r" from="9" to="9"
-                                 begin="0s" dur="0.8s"
-                                 values="9;15;9" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                        <animate attributeName="fill-opacity" from="0.5" to="0.5"
-                                 begin="0s" dur="0.8s"
-                                 values=".5;1;.5" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                    </circle>
-                    <circle cx="105" cy="15" r="15">
-                        <animate attributeName="r" from="15" to="15"
-                                 begin="0s" dur="0.8s"
-                                 values="15;9;15" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                        <animate attributeName="fill-opacity" from="1" to="1"
-                                 begin="0s" dur="0.8s"
-                                 values="1;.5;1" calcMode="linear"
-                                 repeatCount="indefinite"/>
-                    </circle>
-                </svg>
-                <h1 class="text-center">Use Desktop for a better experience</h1>
-            </div>
         </div>
     </div>
 </div>
