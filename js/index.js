@@ -353,6 +353,10 @@ function showDetailsOnClickProject(projectName) {
 	const project = getProjectDetails(projectName);
 	const projectDetails = document.getElementById('project-details');
 
+	// remove all child elements
+	while (projectDetails.firstChild) {
+		projectDetails.removeChild(projectDetails.firstChild);
+	}
 
 	// create boostrap model
 	const modal = document.createElement('div');
