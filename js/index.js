@@ -26,6 +26,38 @@ const projects = [
 		category: 'Poverty and better life',
 		chair: 'Leo Geethma Sathsarani',
 		description: 'The Thirasara 4.0 project was completed on 11th March 2023 at Udatenna, Balangoda in Rathnapura district. We are aiming of unemployed or low-income families and direct them to a path of employment or self-employment. For that in this project, we provided all the basic equipment related to beekeeping to a selected low-income family and an awareness program related to beekeeping was organized for the selected family and some low-income households in the area. Finally the project provided the beneficiaries with the business idea and guidelines to carry out the business and motivated the selected family to start beekeeping business immediately by providing equipment.'
+	},
+	{
+		id: 5,
+		title: 'Prarthana 5.0',
+		category: 'Peace, Religious, and Cultural Activities',
+		chair: 'Leo Sachini Imeshika',
+		description: 'The Leo Club of University of Colombo organized the fifth consecutive year of their "Prarthana 5.0" project under the "Peace, Religious, and Cultural Activities" category. This aims to promote understanding of diverse cultures, customs, and religions, thus fostering peaceful coexistence in society while overcoming communication barriers.\n' +
+			'The first phase was completed on November 17, 2022, at MR/Siri Panjhalankara Junior College and focused on empowering children who struggle with communication difficulties, which is a common issue in society. On February 6, 2023, the second phase targeted people who live in rural areas in Monaragala district.\n' +
+			'The third phase was held on March 17, 2023, and aimed to share knowledge of different religious and cultural activities among students. Leo Club of the University of Colombo has demonstrated great dedication and commitment to achieve goals by successfully completing the project.'
+	},
+	{
+		id: 6,
+		title: 'Manusath Wiyamana',
+		category: 'SDG',
+		chair: 'Leo Damoji Wijesuriya',
+		description: 'The main goal of this initiative project " Manusath Wiyamana" is to lay the groundwork needed to raise the standard of living of those living in Sri Lanka\'s rural areas to a certain level. This undertaking is carried out in three stages. Through the first stage of this initiative, we were attempting to guarantee the sanitation of students with special needs at a rural school. So we chose WP/MIN/Ape Lamai Special School in Mirigama and repaired the bathroom of their hostel as the first phase of this project " Manusath Wiyamana" on 24th of March,2023. For the second phase, we chose WP/ HO Eswatta South Junior School as a school to provide electricity to ease out the work for students in that area. This was successfully completed on 4th of April,2023.As for the third Phase, We chose a woman from the Matara, Godagama area to be the project\'s beneficiary because she had the necessary professional credentials and skill training, wanted to start her own business, but struggled to find the money to buy furniture and equipment for a salon. Therefore, we made the decision to locate the salon\'s furnishings and equipment there and it was successfully conducted on 31st of March, 2023.'
+	},
+	{
+		id: 7,
+		title: 'Lead C1',
+		category: 'Youth Empowerment ',
+		chair: 'Leo Sashmini Anuradha ',
+		description: 'Phase 01 - Outbound Training Program for Leos and non-leos to enhance leadership skills, personality development, team spirit building and strategic thinking. Executed date- 4th of March from 8.30 a.m. to 2.30 p.m. at the University of Colombo Premises. The OBT training was conducted by the well trained OBT Instructors of Department of Physical Education, University of Colombo. \n' +
+			'Phase 02 - Entrepreneurship Development Program for young individuals who are enthusiastic about to become an entrepreneurs. Executed date- 23rd March 2023 from 12.30 p.m to 3.30 p.m at the Faculty of Management & Finance, University of Colombo. The Sessions were conducted by the Guest Speakers, Mr. Upali Jayasekara Chairman/Managing Director, MEGA Heaters (Pvt) Ltd. and Dr. Tissa Ravinda Perera Head/Senior Lecturer, Department of Management & Organization Studies, Faculty of Management and Finance, University of Colombo about the topics of ‘Who is an Entrepreneur?’, ‘Financial Literacy for Entrepreneurs and ‘How to Start a Business?’ respectively.\n' +
+			'By executing these two phases of the project Lead C1 we were expected to develop Leadership Skills, Personality development, Strategic thinking, team spirit building, entrepreneurship development and creativity among the youth to prepare them as responsible young adults who change their lives and contribute to the sustainable development of the country as good citizens. Thereby the project Lead C1 has successfully completed by evoking young generation’s true potentials and the leader in themselves. We believe that this attempt has changed their lives and empowered them to be the best version of themselves.'
+	},
+	{
+		id: 8,
+		title: 'Nisagini 5.0',
+		category: 'Hunger ',
+		chair: 'Leo Shamod Anjana',
+		description: '“නිසාගිනි 5.0” is a project consisted with three phases implemented under the project category HUNGER. The first phase “BETTER TOMORROW” was an awareness session on Healthy Foods and Nutrition to students of St. Peter’s College, Negombo and treating them with a fresh fruit plate on 14th December 2022. “සාරභූමි” the second phase was making school garden at Wp/Mt/Omatta Kanishta Vidyalaya on 3rd March 2023 with 150+ fruits and vegetables and donating working equipment to maintain school garden. Third phase is consisted with 2 segments as “Taste-off! “and “සෙනෙහසේ දෑත්” which was a cooking competition at C.W.W.Kannangara Central Collage, Mathugama on 22nd March 2023 and donating dry rating packets which are well portioned, safe and nutritious to Municipal Maternity Home, Modara.'
 	}
 ];
 
