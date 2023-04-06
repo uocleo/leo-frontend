@@ -58,6 +58,28 @@ const projects = [
 		category: 'Hunger ',
 		chair: 'Leo Shamod Anjana',
 		description: '“නිසාගිනි 5.0” is a project consisted with three phases implemented under the project category HUNGER. The first phase “BETTER TOMORROW” was an awareness session on Healthy Foods and Nutrition to students of St. Peter’s College, Negombo and treating them with a fresh fruit plate on 14th December 2022. “සාරභූමි” the second phase was making school garden at Wp/Mt/Omatta Kanishta Vidyalaya on 3rd March 2023 with 150+ fruits and vegetables and donating working equipment to maintain school garden. Third phase is consisted with 2 segments as “Taste-off! “and “සෙනෙහසේ දෑත්” which was a cooking competition at C.W.W.Kannangara Central Collage, Mathugama on 22nd March 2023 and donating dry rating packets which are well portioned, safe and nutritious to Municipal Maternity Home, Modara.'
+	},
+	{
+		id: 9,
+		title: 'Be Their Vision 7.0',
+		category: 'Vision ',
+		chair: 'Leo Gayana Hewage',
+		description: '"The primary objective of the overall project which consisted of three phases was to assist individuals who are visually impaired and educate people about eye health.\n' +
+			'Accordingly, the first phase of the project was named as ‘’Million Eyes’’ where the significance of donating eyes was emphasized in order to make the eye donors pool wider. In collaboration with Sri Lankan Eye Donation Society, the first phase was conducted on 7th of December 2022 at Bellanwilla Raja Maha Viharaya and Kotte Maha Viharaya with commendable community involvement. There, the committee members were assigned to get people registered to donate their eyes by signing a promising sheet. Explaining the procedures involved in the donation process and filling out the consent papers were done by the committee members in careful manner.\n' +
+			'On the other hand, the second phase of the project ‘’Tomorrow Ready’’ was set out to enhance the awareness of Sri Lankan community on vision impairment and potential preventative measures. To facilitate this objective, an eye awareness session was conducted on 5th of March 2023 at Hunupitiya Wijesundararama Purana Viharaya with the presence of keynote speaker Dr. Kumudu Anthony who is the Senior Registrar in Ophthalmology National Eye Hospital. The targeted audience was comprised of Sunday school students of the temple and the session generated useful insights on eye care.\n' +
+			'On the same day, the first segment of the third phase ‘’Care First’’ was conducted right after the eye awareness session at same premises. The essence of the phase was to organize an eye screening camp to diagnose people with vision impairments and subsequently to donate free spectacles for those identified individuals. Required funds to buy those spectacles was arranged by project committee members through varies sources. Eventually, the second segment of the third phase was held on the 26th of March 2023 at the same location to distribute those free customized spectacles to the identified individuals. \n' +
+			'"'
+	},
+	{
+		id: 10,
+		title: 'Sindu Nala Raksha 6.0',
+		category: 'Wildlife and Life below water  ',
+		chair: 'Leo Shehan Kumarasinghe ',
+		description: '"Project ""Sindu Nala Raksha 6.0"" was initiated to \'Be the voice for the voiceless\'; innocent and threatened heirs of the earth. The project team was also consist of people who are really passionate about wildlife. As per their decision, the project was planned to execute in 3 phases where two-third of them directly involve in conserving wildlife while the other is involving creatively and indirectly. \n' +
+			'\n' +
+			'In the initial phase of the project, targeted species was recognized as wild elephants in Sri Lanka and phase was implemented to assist people and organizations who look after abandoned elephants in Sri Lanka. It was executed as a volunteering program at Pinnawala elephant orphanage on 22nd of February 2023. To impact the public in creative way, a wildlife photographic competition was arranged as the second phase which held for 15th February to 18th March. The contest was successfully completed with two different winners from two categories. As the final phase, our focus was aimed on conserving life below water. For that the arrangements was happened to organize a beach-cleanup program along with a marine wildlife awareness session with the participation of school children as well. To mark a successful end for the project, we could complete the final phase on 28th of March at Kudawella beach, Tangalle. \n' +
+			'\n' +
+			'In conclusion, it was utterly satisfied that our efforts could impact the public in a good manner in conserving wildlife."'
 	}
 ];
 
