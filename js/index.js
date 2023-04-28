@@ -104,7 +104,23 @@ const projects = [
 	},
 	{
 		id: 14,
-		title: 'Sahana 6.0',
+		title: 'Braniacs',
+		category: 'Education and literacy ',
+		chair: 'Leo Editorial Board',
+		description: 'The Leo Club of the University of Colombo organized a business case study competition, "Braniacs" to provide students with a platform to apply their theoretical knowledge of business concepts to real-world scenarios and test their problem-solving and analytical skills. The project was conducted under the category of youth empowerment with the objective of "providing students with a platform to apply their theoretical knowledge of business concepts to real-world scenarios and test their problem-solving and analytical skills." \n' +
+			'This was created for undergraduates in Sri Lankan universities and students studying Advanced Level in Commerce stream. \n' +
+			'As the first step, a business case study competition was planned and applications were opened for school and university students. Accordingly, six schools and eight university teams from different provinces registered for the competition.\n' +
+			'Before the competition rounds, a workshop was conducted by Mr. Krishmal Fernando, and Ms. Poornima Gamage: assistant lecturers from the University of Colombo gave the background knowledge before the competition. \n' +
+			'There were two rounds in this competition. In the first round, teams were expected to analyse the given business case study which outlines a problem or challenge facing a company and develop a recommended solution to the case in a written manner. The judging panel evaluated it and chose three teams for the final round.\n' +
+			'In the final round, the three teams in each category presented their solutions in front of a panel of judges, and one team from each category was selected as the winner. Dr. Thissa Ravinda Perera and Dr. Sujeewa Damayanthi: senior lecturers from the University of Colombo associated with the panel of judges in the competition. \n' +
+			'Through this project, we were able to,\n' +
+			'1.\tDevelop critical thinking and problem-solving skills: Participants in a case study competition are presented with a real-world business problem and are challenged to come up with a viable solution. This requires critical thinking and problem-solving skills, which can be developed through this competition.\n' +
+			'2.\tEnhance teamwork and collaboration: Most case study competitions require participants to work in teams. This promotes teamwork and collaboration, which are essential skills in the workplace.\n' +
+			'3.\tGain practical experience: Case study competitions often involve working on real-world business problems, providing participants with practical experience that can be applied in their future careers.\n' +
+			'4.\tBuild professional networks: Competitions often provide opportunities for participants to network with peers, judges, and other professionals. This can lead to valuable connections and potential job opportunities.\n' +
+			'5.\tRaise awareness of important issues: Case study competitions can raise awareness of important issues facing businesses and society. This can lead to increased discussion and action around these issues.\n' +
+			'6.\tShowcase skills and expertise: Competing in a case study competition can be a way to showcase skills and expertise to potential employers or clients.\n' +
+			'This competition was important to enhance the thinking skills of students, as they learned how to face a competition, and what solutions made the best sense for their problems. Not only participants but also audience members were able to gain new knowledge, which they appreciated.\n'
 	}
 ];
 
