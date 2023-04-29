@@ -105,8 +105,8 @@ const projects = [
 	{
 		id: 14,
 		title: 'Braniacs',
-		category: 'Education and literacy ',
-		chair: 'Leo Editorial Board',
+		category: 'Youth Empowerment',
+		chair: 'Leo Dinani Natasha',
 		description: 'The Leo Club of the University of Colombo organized a business case study competition, "Braniacs" to provide students with a platform to apply their theoretical knowledge of business concepts to real-world scenarios and test their problem-solving and analytical skills. The project was conducted under the category of youth empowerment with the objective of "providing students with a platform to apply their theoretical knowledge of business concepts to real-world scenarios and test their problem-solving and analytical skills." \n' +
 			'This was created for undergraduates in Sri Lankan universities and students studying Advanced Level in Commerce stream. \n' +
 			'As the first step, a business case study competition was planned and applications were opened for school and university students. Accordingly, six schools and eight university teams from different provinces registered for the competition.\n' +
@@ -121,6 +121,20 @@ const projects = [
 			'5.\tRaise awareness of important issues: Case study competitions can raise awareness of important issues facing businesses and society. This can lead to increased discussion and action around these issues.\n' +
 			'6.\tShowcase skills and expertise: Competing in a case study competition can be a way to showcase skills and expertise to potential employers or clients.\n' +
 			'This competition was important to enhance the thinking skills of students, as they learned how to face a competition, and what solutions made the best sense for their problems. Not only participants but also audience members were able to gain new knowledge, which they appreciated.\n'
+	},
+	{
+		id: 15,
+		title: 'මතින් තොර හෙටක්',
+		category: 'Drug Prevention and Rehabilitation',
+		chair: 'Leo Harshanie Liyanage',
+		description: 'Project “මතින් තොර හෙටක්” is another valuable social mission carried out by the Leo Club of Colombo University with the aim of freeing the youth and the future from drugs in this country. Held in three stages, the first stage was held in Vidyarthodaya National School, Galle on the 25th of April. And the second stage was at 26th of April in “Nawa Jeewana Amadyapa Hada Sewaya” in Galle. As the third phase we conducted a poster campaign in selected public places of our country on 27th of April. In the end, we could provide a better outcome for the community. '
+	},
+	{
+		id: 16,
+		title: 'Project One Drop 5.0',
+		category: 'Clean Water and Energy Conservation',
+		chair: 'Leo Damith Kaushalya',
+		description: 'The project One Drop 5.0 was held with the aim of reducing the current energy crisis and water pollution. The entire project consisted of two phases. In the first phase of the project, with the aim of reducing the energy crisis, which has become a global problem, an awareness program was held for schoolchildren regarding the energy crisis, and simultaneously, a quiz program was also held regarding the session. Prior to the day of the awareness program, the principal and teachers instructed the school students to create paintings related to the energy crisis, and on the day of the session, we received many paintings. Among those paintings, the first, second, and third winners were selected. At the end, prizes were awarded to the winners of the drawing competition and quiz program. In the second phase of the project, a waterfall was cleaned to reduce water pollution and protect water catchment areas. So, we collected the garbage around the waterfall and handed it over to the municipal officials, and for proper disposal of the garbage, a garbage bin was established near the waterfall, and awareness boards were installed regarding the preservation of the waterfall. Both of these phases were successfully completed with the participation of project members and Leo members.'
 	}
 ];
 
