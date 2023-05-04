@@ -135,6 +135,23 @@ const projects = [
 		category: 'Clean Water and Energy Conservation',
 		chair: 'Leo Damith Kaushalya',
 		description: 'The project One Drop 5.0 was held with the aim of reducing the current energy crisis and water pollution. The entire project consisted of two phases. In the first phase of the project, with the aim of reducing the energy crisis, which has become a global problem, an awareness program was held for schoolchildren regarding the energy crisis, and simultaneously, a quiz program was also held regarding the session. Prior to the day of the awareness program, the principal and teachers instructed the school students to create paintings related to the energy crisis, and on the day of the session, we received many paintings. Among those paintings, the first, second, and third winners were selected. At the end, prizes were awarded to the winners of the drawing competition and quiz program. In the second phase of the project, a waterfall was cleaned to reduce water pollution and protect water catchment areas. So, we collected the garbage around the waterfall and handed it over to the municipal officials, and for proper disposal of the garbage, a garbage bin was established near the waterfall, and awareness boards were installed regarding the preservation of the waterfall. Both of these phases were successfully completed with the participation of project members and Leo members.'
+	},
+	{
+		id: 17,
+		title: 'DiabCure 5.0',
+		category: 'Diabetes ',
+		chair: 'Leo Eshini Udara',
+		description: 'The project DiabCure 5.0 was organized by the Leo Club of University of Colombo in this leoistic year for the fifth consecutive time. The primary aim of the project is to prevent diabetes in the community. Therefore, the project was conducted in two successful and impactful phases. The first phase was a diabetes prevention awareness session that was implemented at Sri Bodhirukkarama Viharaya, Nugegoda, on 19th of February 2023. The second phase of the project was a donation of diabetes medical equipment to the Diabetes Care Unit at Negombo General Hospital. This was conducted on 28th April with the participation of the doctor in charge of the Diabetes Care Unit. After having a favorable effect on society, the project was successfully concluded with the assistance of numerous outside parties, including UOC Leos and non-Leos. It is important to note that the initiative as a whole succeeded in raising community awareness of the need to prevent diabetes, a non-communicable disease that affects a significant portion of the population.'
+	},
+	{
+		id: 18,
+		title: 'Alert 6.0',
+		category: 'Peditric cancer',
+		chair: 'Leo Rishini Wickramawardana',
+		description: '"The project aimed to ensure the physical and mental health of pediatric patients, encourage them to have greater aspirations for the future, and educate people on early-stage treatments and signs and symptoms of pediatric cancer. It also aimed to develop awareness among society.\n' +
+			'The project was planned to be completed in three phases. The first phase was implemented under the name ""සිහින ගෙත්තම්"". It consisted of two parts. In the first stage - as the first part, on the 23rd of december, 2022 the children receiving residential treatment at Maharagama CCC Home were able to fill their little hands with beautiful gifts that day. An entertainment program with Santa Claus was held on that day. Also, a breakfast program was organized for the children, their parents, staff members, and elderly cancer patients who received inpatient treatment on the same day.\n' +
+			'The second part was launched on the 26th of december 2022 for the little hearts who are undergoing treatment at the Maharahama Apeksha Hospital. There, with the knowledge and support of the medical board of the hospital, a program was conducted to distribute essential items to all the children receiving treatment there. The second phase was successfully completed on the 27th of january 2023 at the Faculty of Technology premises of the University of Colombo under the name ""රුහිරු සුරක්ශා"". A blood donation program and a community awareness program were conducted along with this phase. For those who could not participate on that day, the awareness program was also conducted through Zoom technology.  \n' +
+			' The last phase of this project ""අපේක්ශාවට අපේක්ෂාවක්"" was conducted on the 09th of april 2023. The aim here was to provide essential medicines to cancer patients who are currently being treated at the Maharagama Apeksha Hospital. Along with that, a program to provide sanitary items was also carried out. Despite all the obstacles and challenges, we are fortunate to be able to successfully complete the project this time by overcoming them."'
 	}
 ];
 
