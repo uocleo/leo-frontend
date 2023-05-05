@@ -152,6 +152,22 @@ const projects = [
 			'The project was planned to be completed in three phases. The first phase was implemented under the name ""සිහින ගෙත්තම්"". It consisted of two parts. In the first stage - as the first part, on the 23rd of december, 2022 the children receiving residential treatment at Maharagama CCC Home were able to fill their little hands with beautiful gifts that day. An entertainment program with Santa Claus was held on that day. Also, a breakfast program was organized for the children, their parents, staff members, and elderly cancer patients who received inpatient treatment on the same day.\n' +
 			'The second part was launched on the 26th of december 2022 for the little hearts who are undergoing treatment at the Maharahama Apeksha Hospital. There, with the knowledge and support of the medical board of the hospital, a program was conducted to distribute essential items to all the children receiving treatment there. The second phase was successfully completed on the 27th of january 2023 at the Faculty of Technology premises of the University of Colombo under the name ""රුහිරු සුරක්ශා"". A blood donation program and a community awareness program were conducted along with this phase. For those who could not participate on that day, the awareness program was also conducted through Zoom technology.  \n' +
 			' The last phase of this project ""අපේක්ශාවට අපේක්ෂාවක්"" was conducted on the 09th of april 2023. The aim here was to provide essential medicines to cancer patients who are currently being treated at the Maharagama Apeksha Hospital. Along with that, a program to provide sanitary items was also carried out. Despite all the obstacles and challenges, we are fortunate to be able to successfully complete the project this time by overcoming them."'
+	},
+	{
+		id: 19,
+		title: 'Kruthaguna 5.0',
+		category: 'Senior Citizen Development',
+		chair: 'Leo Senali Wanigasundara',
+		description: 'Senior citizen population rises as life expectancy increases. There are many things that can be done to help to make them feel they are still needed and valued within the society. With this aim, Project Kruthaguna 5.0 was implemented for the fifth consecutive time in three main phases.\n' +
+			'The 1st phase ‘’Manudam Mehewara’’, health awareness session was held on 22nd January 2023 at Udahamulla Siddhartha College, Thalapathpitiya with the active participation of more than 50 elders. Our keynote speaker Dr. Kasun Withana explained them the importance and ways of maintaining good mental, physical well-being with the ageing process.\n' +
+			'‘’Helping Hands’’, essential medicine and other accessory donation program was held on 26th February 2023 as the 2nd phase at Colombo South Teaching Hospital, Kaluowila. Project Kruthaguna 5.0 was successfully concluded with the 3rd phase, ‘’Theertha’’ on 22nd April 2023. An entertaining and dry rations donation program was organized for more than 100 elders residing at St. Joseph’s Home for Elders, Langsigama, Katuneriya. We are so much grateful for everyone who helped in making this project fruitful. \n'
+	},
+	{
+		id: 20,
+		title: 'Alphabetz',
+		category: 'Continuous project',
+		chair: 'Leo Irusha Fernando ',
+		description: 'Leo Club of university of Colombo has planned to conduct project ‘Alphabetz’ as its continuous project for the leoistic year 2022/23 with the intention of developing English knowledge of primary students. In this project we were focusing to do an on-site English Workshop for Grade 3 and 4 students since they weren’t able to learn basic lessons of English in their traditional way due to the Covid pandemic. The Workshop would be conducted by our very own undergraduates of University of Colombo. Furthermore, With a goal of completing six phases, we began the project in November and concluded it in April. All six phases of project ‘Alphabetz’ were successfully completed by our team.'
 	}
 ];
 
