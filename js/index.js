@@ -168,6 +168,13 @@ const projects = [
 		category: 'Continuous project',
 		chair: 'Leo Irusha Fernando ',
 		description: 'Leo Club of university of Colombo has planned to conduct project ‘Alphabetz’ as its continuous project for the leoistic year 2022/23 with the intention of developing English knowledge of primary students. In this project we were focusing to do an on-site English Workshop for Grade 3 and 4 students since they weren’t able to learn basic lessons of English in their traditional way due to the Covid pandemic. The Workshop would be conducted by our very own undergraduates of University of Colombo. Furthermore, With a goal of completing six phases, we began the project in November and concluded it in April. All six phases of project ‘Alphabetz’ were successfully completed by our team.'
+	},
+	{
+		id: 21,
+		title: 'පුරවර සරසවි සූර්‍ය මංගල්‍යය 2023',
+		category: 'Fellowship',
+		chair: 'Leo Haritha Vimukthi',
+		description: 'The Leo Club of University of Colombo hosted the "පුරවර සරසවි සූර්ය මංගල්‍යය 2023" on April 23, 2023, which aimed to preserve traditional New Year customs while creating a space for Leos to bond and take a break from academics. The event united past and present members and was inclusive, allowing for a cross-cultural exchange of ideas and perspectives. The traditional New Year games kicked off, enhancing team spirit and mutual understanding, and the crowning of the Avurudu Kumara and Kumariya was the highlight of the event. The beautifully decorated swing (ongchillawa), left all attendees spellbound, and the day was filled with joyous moments that brought people closer together. The well-planned and organized event concluded with the awarding of gifts to the winners of the games, making it a truly memorable experience for all. Thereby the new year festival, “පුරවර සරසවි සූර්ය මංගල්‍යය 2023” concluded successfully.'
 	}
 ];
 
