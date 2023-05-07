@@ -175,6 +175,13 @@ const projects = [
 		category: 'Fellowship',
 		chair: 'Leo Haritha Vimukthi',
 		description: 'The Leo Club of University of Colombo hosted the "පුරවර සරසවි සූර්ය මංගල්‍යය 2023" on April 23, 2023, which aimed to preserve traditional New Year customs while creating a space for Leos to bond and take a break from academics. The event united past and present members and was inclusive, allowing for a cross-cultural exchange of ideas and perspectives. The traditional New Year games kicked off, enhancing team spirit and mutual understanding, and the crowning of the Avurudu Kumara and Kumariya was the highlight of the event. The beautifully decorated swing (ongchillawa), left all attendees spellbound, and the day was filled with joyous moments that brought people closer together. The well-planned and organized event concluded with the awarding of gifts to the winners of the games, making it a truly memorable experience for all. Thereby the new year festival, “පුරවර සරසවි සූර්ය මංගල්‍යය 2023” concluded successfully.'
+	},
+	{
+		id: 22,
+		title: 'Sathkara',
+		category: 'Quality Education and Literacy',
+		chair: 'Leo Himesh Tharuka',
+		description: 'The "Sathkara" project involved collecting and donating books to Sri Sumangala College, Iriyawetiya and Bandaranayake College, Hunupitiya in Sri Lanka, two schools in need of additional library resources. Club members worked tirelessly to sort, pack, and transport the collected books to the selected schools. To maximize the number of beneficiaries, the books were donated to the school libraries, ensuring easy access for all students. Collaboration with the schools\' administration and teachers helped to tailor the book collection to the specific needs and interests of the students. The success of this project is reflected in the enhanced educational experience it provides for the students. The donated books will allow students to explore various subjects, improve their grades, and develop consistent reading habits. This project demonstrates the importance of community involvement in addressing educational needs and promoting a brighter future for students.'
 	}
 ];
 
@@ -471,7 +478,6 @@ $(document).ready(function () {
 	console.log(this);
 
 
-
 	console.log(newslettersArray);
 
 
@@ -547,26 +553,26 @@ function showDetailsOnClickProject(projectName) {
 	modal.setAttribute('aria-labelledby', 'projectModalLabel');
 	modal.setAttribute('aria-hidden', 'true');
 
-const modalDialog = document.createElement('div');
+	const modalDialog = document.createElement('div');
 	modalDialog.classList.add('modal-dialog');
 	modalDialog.classList.add('modal-dialog-centered');
 	modalDialog.classList.add('modal-lg');
 
-const modalContent = document.createElement('div');
+	const modalContent = document.createElement('div');
 	modalContent.classList.add('modal-content');
 
-const modalHeader = document.createElement('div');
+	const modalHeader = document.createElement('div');
 	modalHeader.classList.add('modal-header');
 
-const modalTitle = document.createElement('h5');
+	const modalTitle = document.createElement('h5');
 	modalTitle.classList.add('modal-title');
 
-const modalCloseButton = document.createElement('button');
+	const modalCloseButton = document.createElement('button');
 	modalCloseButton.classList.add('btn-close');
 	// data-bs-dismiss="modal"
 	modalCloseButton.setAttribute('data-bs-dismiss', 'modal');
 
-const modalBody = document.createElement('div');
+	const modalBody = document.createElement('div');
 	modalBody.classList.add('modal-body');
 
 
