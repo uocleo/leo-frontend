@@ -281,6 +281,15 @@ const newslettersArray = [
 	},
 	{
 		"class": "bg-warning-soft",
+		"tag": "Volume 05 Issue 07",
+		"name": "Our Essence Volume 05 Issue 07",
+		"description": "We are Leos. We are not only serving ourselves; we all are for others. We all have lives but Leos have bright lives because they have to light up others’ lives too We are experiencing different kinds of experiences in this Leoism journey. We are learning lessons from past experiences and making our future successful.",
+		"url": "https://anyflip.com/mrfst/kbpn/",
+		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue07.jpg",
+		"pdf": "https://anyflip.com/mrfst/kbpn/"
+	},
+	{
+		"class": "bg-warning-soft",
 		"tag": "Volume 05 Issue 06",
 		"name": "Our Essence Volume 05 Issue 06",
 		"description": "We are Leos. We are not only serving ourselves; we all are for others. We all have lives but Leos have bright lives because they have to light up others’ lives too We are experiencing different kinds of experiences in this Leoism journey. We are learning lessons from past experiences and making our future successful.",
