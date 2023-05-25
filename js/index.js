@@ -482,7 +482,8 @@ $(document).ready(function () {
 
 
 	// Get the first four newsletters
-	const newsletters = newslettersArray.slice(0, 4);
+	// const newsletters = newslettersArray.slice(0, 4);
+	const newsletters = newslettersArray;
 	console.log(newsletters);
 
 	const newsletterContainer = document.getElementById('newsletter-container');
@@ -492,7 +493,7 @@ $(document).ready(function () {
 // Loop through the newsletters array
 	newsletters.forEach(newsletter => {
 
-		if (i <= 3) {
+		if (i <= newsletters.length - 1) {
 
 			// Create card elements
 			const card = document.createElement('a');
