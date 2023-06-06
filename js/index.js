@@ -182,6 +182,20 @@ const projects = [
 		category: 'Quality Education and Literacy',
 		chair: 'Leo Himesh Tharuka',
 		description: 'The "Sathkara" project involved collecting and donating books to Sri Sumangala College, Iriyawetiya and Bandaranayake College, Hunupitiya in Sri Lanka, two schools in need of additional library resources. Club members worked tirelessly to sort, pack, and transport the collected books to the selected schools. To maximize the number of beneficiaries, the books were donated to the school libraries, ensuring easy access for all students. Collaboration with the schools\' administration and teachers helped to tailor the book collection to the specific needs and interests of the students. The success of this project is reflected in the enhanced educational experience it provides for the students. The donated books will allow students to explore various subjects, improve their grades, and develop consistent reading habits. This project demonstrates the importance of community involvement in addressing educational needs and promoting a brighter future for students.'
+	},
+	{
+		id: 23,
+		title: 'Rang Dey 2022',
+		category: 'Quality Education and Literacy',
+		chair: 'Leo Himesh Tharuka',
+		description: 'The project Rang Dey 2022 was organized to bring excitement and entertainment into the lives of participants, breaking up their routines and giving them a delightful experience, all while boosting the publicity and public image of the club.\n' +
+			'\n' +
+			'The project was successfully concluded with the presence of a huge number of participants and the support of official photography partners and an official entertainment partner.\n' +
+			'\n' +
+			'To ensure the success of the event, honor goes to all the enthusiastic participants, project committee members, regime members, and club members for planning this event by finding a relevant place, decorating the venue, setting up stalls, and\n' +
+			'coordinating and organizing the event. \n' +
+			'\n' +
+			'We would like to extend our special thanks to our Club President Leo Haritha Vimukthi, Club Secretary Leo Methma Athauda, and Club Treasurer and Project Chairperson Leo Thilina Bandara for being a tower of strength for us. The project itself was a great success, and all the participants wholeheartedly contributed to it. A wonderful day of friendship came to an end, leaving thousands of memories to take home and cherish for a lifetime.'
 	}
 ];
 
