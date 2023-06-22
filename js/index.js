@@ -186,8 +186,8 @@ const projects = [
 	{
 		id: 23,
 		title: 'Rang Dey 2022',
-		category: 'Quality Education and Literacy',
-		chair: 'Leo Himesh Tharuka',
+		category: 'Public Relations',
+		chair: 'Leo Thilina Chathushka',
 		description: 'The project Rang Dey 2022 was organized to bring excitement and entertainment into the lives of participants, breaking up their routines and giving them a delightful experience, all while boosting the publicity and public image of the club.\n' +
 			'\n' +
 			'The project was successfully concluded with the presence of a huge number of participants and the support of official photography partners and an official entertainment partner.\n' +
@@ -374,9 +374,9 @@ $(window).scroll(function () {
 				var $this = $(this),
 					countTo = $this.attr('data-count');
 
-				$({countNum: $this.text()}).animate({
-						countNum: countTo
-					},
+				$({ countNum: $this.text() }).animate({
+					countNum: countTo
+				},
 
 					{
 
@@ -455,9 +455,9 @@ document.addEventListener('DOMContentLoaded', () => {
 $(document).ready(function () {
 
 
-//Current Slide
+	//Current Slide
 	let i = 0;
-//Total Slides
+	//Total Slides
 	let j = testimonials.length;
 
 	let testimonialContainer = document.getElementById("testimonial-container");
@@ -513,7 +513,7 @@ $(document).ready(function () {
 
 	let i = 0;
 
-// Loop through the newsletters array
+	// Loop through the newsletters array
 	newsletters.forEach(newsletter => {
 
 		if (i <= newsletters.length - 1) {
