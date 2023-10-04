@@ -201,68 +201,68 @@ const projects = [
 
 const testimonials = [
 	{
-		name: "Leo Haritha Vimukthi",
+		name: "Leo Shamod Gammanpila",
 		job: "President",
-		image: "./public/images/exco/leo-haritha-vimukthi.jpg",
+		image: "./public/images/exco/LeoShamodGammapila.jpg",
 		testimonial:
-			"In 2020, the writer joined the Leo movement as a prospect of the Leo Club of the University of Colombo. They took on leadership roles in various projects and gained valuable experience as a young leader. They are now the President of the Leo Club of the University of Colombo and believe Leoism is a great platform for undergraduates to develop leadership skills and make an impact on society.",
+			"Be a shining star in our Leo galaxy! Together, we light up the world with service and smiles. Let's make every moment a constellation of kindness.",
 	},
 	{
-		name: "Leo Methma Athauda",
-		job: "Secretary",
-		image: "./public/images/exco/leo-methma-athauda.jpg",
-		testimonial:
-			"The author joined the Leo movement in 2020 and has since participated in various projects and activities of the Leo Club of University of Colombo. They were appointed Director of Fundraising and Management in Leo Regime in 2021-22 and appointed Club Secretary for the academic year 2022-23. The author believes the Leo movement is a great opportunity for undergraduates to develop leadership qualities and become young leaders for the environment and society.",
-	},
-	{
-		name: "Leo Thilina Bandara",
-		job: "Treasurer",
-		image: "./public/images/exco/leo-thilina-bandara.jpg",
-		testimonial:
-			"The writer has been a part of the Leo community for over two years, starting as a prospect and becoming the Club Treasurer for the leostic years 2022-2023. They gained valuable experience in leadership, communication, problem-solving, teamwork, and dealing with different minds while working on projects. They invite others to join and gain similar opportunities and make good memories while serving the community.",
-	},
-	{
-		name: "Leo Himesh Tharuka",
+		name: "Leo Shehan Kumarasinghe",
 		job: "1st Vice President",
-		image: "./public/images/exco/leo-himesh-tharuka.jpg",
+		image: "./public/images/exco/LeoShehanKumarasinghe.jpg",
 		testimonial:
-			"Experiences determine success or failure. As a UOC Leo, the author gained invaluable experiences and developed social and leadership skills through various projects. Recognized for their hard work, they became 1st vice president for the upcoming year and recommend UOC Leo for future leaders.",
+			"LEO, a global community of young people who are passionate about making a difference in the world. Together, we can achieve great things. Be bold, be brave, and be the change you want to see.",
 	},
 	{
-		name: "Leo Vidura Kalu Arachchi",
+		name: "Leo Rishini Wickramawardana",
 		job: "2nd Vice President",
-		image: "./public/images/exco/leo-vidura-kalu-arachchi.jpg",
+		image: "./public/images/exco/LeoRishiniWickramawardana.jpg",
 		testimonial:
-			"LEO is about leadership, experience, and opportunity. Engaging in community service helps improve our quality of life and develops us as individuals. Join the Leo Club to make valuable contributions to society while also making connections and friends.",
+			"Be a part of our cosmic legacy! We paint the sky with the hues of togetherness. Let's unveil a kingdom of learning, love & leadership.",
 	},
 	{
-		name: "Leo Ayeshika Nawanjani",
+		name: "Leo Archana Dayawansa",
+		job: "Secretary",
+		image: "./public/images/exco/LeoArchanaDayawansa.jpg",
+		testimonial:
+			"Join with us to, ‘Ignite the spark of service’, where kindness shines bright and service knows no bounds. Explore our world of compassion, community, and commitment to making a positive difference. Together, we're lighting up lives and creating a better tomorrow, one act of service at a time. Together, we can create a brighter and more compassionate community where the spirit of service thrives.",
+	},
+	{
+		name: "Leo Nisangi Premarathne",
 		job: "Assistant Secretary",
-		image: "./public/images/exco/leo-ayeshika-nawanjani.jpg",
+		image: "./public/images/exco/LeoNisangiPremarathne.jpg",
 		testimonial:
-			"Joining the Leo Club in 2020, the author was inspired by Nimesh Tivanka Comrade's interest in Leo projects and worked as a senior editor on the editorial board. The author's desire to make college life memorable and gain experiences led to serving as a Leo member, contributing to communication abilities. Joining offers the opportunity to discover new opportunities, grow as a person, and participate in internationally recognized projects. Advantages include developing presentation and personality skills, positive attitudes, and group work abilities.",
+			"Join us in celebrating the spirit of volunteerism and the collective impact we're making in our community. As enthusiastic young Leos, together we are making a difference, one act of kindness at a time.",
 	},
 	{
-		name: "Leo Udeshika Ganegoda",
+		name: "Leo Tharushi Dulshara",
 		job: "Assistant Secretary",
-		image: "./public/images/exco/leo-udeshika-ganegoda.jpg",
+		image: "./public/images/exco/LeoTharushiDulshara.jpg",
 		testimonial:
-			"The writer joined the Leo Club of University of Colombo to become their best self and serve the community through organized projects. They held various project positions and won awards for their hard work and commitment. They recommend the Leo Club as a great place to improve skills and create university memories.",
+			"Leo, where strength and charisma light up the path to greatness! Embrace the positive traits of being a Leo while illuminating the world with your unique lights and confident personalities.",
 	},
 	{
-		name: "Leo Janith Kodithuwakku",
+		name: "Leo Kavindu Piyathissa",
+		job: "Treasurer",
+		image: "./public/images/exco/LeoKavinduPiyathissa.jpg",
+		testimonial:
+			"In the spirit of service, we hope to ignite the spark of service within the heart, ignite the spark of service within, and watch as it brightens the world around.",
+	},
+	{
+		name: "Leo Ravindu Attanayake",
 		job: "Assistant Treasurer",
-		image: "./public/images/exco/leo-janith-kodithuwakku.jpeg",
+		image: "./public/images/exco/LeoRavinduAttanayake.jpg",
 		testimonial:
-			"Joining the Leo family has given me valuable experiences and shaped me into the person I am now. Leoism is a great platform for youth to become exceptional leaders and gain skills. Being part of the Leo Club of University of Colombo has allowed me to develop interpersonal and leadership skills. Join us in serving society and becoming exceptional leaders.",
+			"Leo is the place where youth leadership shines bright. We positively impact our communities through service, leadership, and friendship. Together we can make a change, one act of kindness at a time.",
 	},
-	// {
-	// 	name: "Leo Shehan De Mel",
-	// 	job: "Assistant Treasurer",
-	// 	image: "./public/images/exco/leo-shehan-de-mel.jpg",
-	// 	testimonial:
-	// 		"Joining the Leo club at University of Colombo motivated the speaker to improve leadership skills, build networks and engage in social activities. Being a part of the global Leo family helps develop as an individual and a leader, while also providing the opportunity to give back to the community and be recognized for efforts.",
-	// },
+	{
+		name: "Leo Tharushi Weerasinghe",
+		job: "Assistant Treasurer",
+		image: "./public/images/exco/LeoTharushiWeerasinghe.jpg",
+		testimonial:
+			"Empowering young leaders, fostering community spirit, and driving positive change. Join us in our mission to make a difference. Explore our projects, events, and opportunities. Together, let's create a better tomorrow!",
+	},
 ];
 
 const newslettersArray = [
