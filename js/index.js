@@ -196,6 +196,13 @@ const projects = [
 			'coordinating and organizing the event. \n' +
 			'\n' +
 			'We would like to extend our special thanks to our Club President Leo Haritha Vimukthi, Club Secretary Leo Methma Athauda, and Club Treasurer and Project Chairperson Leo Thilina Bandara for being a tower of strength for us. The project itself was a great success, and all the participants wholeheartedly contributed to it. A wonderful day of friendship came to an end, leaving thousands of memories to take home and cherish for a lifetime.'
+	},
+	{
+		id: 24,
+		title: 'Api Apima',
+		category: 'Spotlight on children',
+		chair: 'Leo Kavindu Wijesinghe',
+		description: `The first initiative of "Api Apima" was undertaken with a deep intention to bringing spotlight on children during this World Children's Day. Appointed Project committee made sudden plans to implement this project successfully and their target was specially focused on children residing in children’s homes. Instead of a conventional children’s day celebration or typical alms giving the focus was on giving those children something more valuable; HOPE. To implement this project, Lawris Children’s Home in Borella was selected to share love and laughter. The day was marked by friendship, games, and heartfelt conversations, where the children were inspired to pursue their dreams through education. The highlight was witnessing their joy as they received gifts and showcased their talents. The event concluded with cherish after generating a positive impact and hope to these young souls. World Children's Day is not about meals and gifts, but also spreading joy and inspiring young minds. `
 	}
 ];
 
