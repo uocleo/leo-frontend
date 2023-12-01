@@ -203,7 +203,15 @@ const projects = [
 		category: 'Spotlight on children',
 		chair: 'Leo Kavindu Wijesinghe',
 		description: `The first initiative of "Api Apima" was undertaken with a deep intention to bringing spotlight on children during this World Children's Day. Appointed Project committee made sudden plans to implement this project successfully and their target was specially focused on children residing in children’s homes. Instead of a conventional children’s day celebration or typical alms giving the focus was on giving those children something more valuable; HOPE. To implement this project, Lawris Children’s Home in Borella was selected to share love and laughter. The day was marked by friendship, games, and heartfelt conversations, where the children were inspired to pursue their dreams through education. The highlight was witnessing their joy as they received gifts and showcased their talents. The event concluded with cherish after generating a positive impact and hope to these young souls. World Children's Day is not about meals and gifts, but also spreading joy and inspiring young minds. `
+	},
+	{
+		id: 25,
+		title: 'Sahurada Viyaman',
+		category: 'Spotlight on children',
+		chair: 'Leo Nanduni Ranasinghe',
+		description: `In the inaugural phase of our ongoing project, we embarked on a journey to express our heartfelt gratitude to the often-overlooked minor staff at the Faculty of Management and Finance through a carefully crafted musical ode. With a crystal-clear goal of acknowledging the diligent individuals who serve as the backbone of the faculty's seamless operation, our meticulously devised plan unfolded into a captivating one-hour symphony scheduled for November 15, 2023. More than just an entertainment escapade, this event was a thoughtful gesture, featuring a delectable lunch and special badges to recognize the invaluable contributions of our unsung heroes. Understanding the transformative power of collaboration, we sought the support of the Leo Club from the University of Colombo, whose involvement became integral to the success of our initiative. This update provides a glimpse into the impactful and collaborative nature of the project "Sahurda Viyamana," emphasizing the significance of expressing gratitude and appreciation within our academic community. `
 	}
+
 ];
 
 const testimonials = [
@@ -273,6 +281,15 @@ const testimonials = [
 ];
 
 const newslettersArray = [
+	{
+		"class": "bg-warning-soft",
+		"tag": "Volume 06 Issue 04",
+		"name": "Our Essence Volume 06 Issue 04",
+		"description": "Check out the newly released 3rd Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"url": "https://anyflip.com/mrfst/xdes",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue04.jpg",
+		"pdf": "https://anyflip.com/mrfst/xdes"
+	},
 	{
 		"class": "bg-warning-soft",
 		"tag": "Volume 06 Issue 03",
