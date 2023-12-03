@@ -207,7 +207,7 @@ const projects = [
 	{
 		id: 25,
 		title: 'Sahurada Viyaman',
-		category: 'Spotlight on children',
+		category: 'Continuous',
 		chair: 'Leo Nanduni Ranasinghe',
 		description: `In the inaugural phase of our ongoing project, we embarked on a journey to express our heartfelt gratitude to the often-overlooked minor staff at the Faculty of Management and Finance through a carefully crafted musical ode. With a crystal-clear goal of acknowledging the diligent individuals who serve as the backbone of the faculty's seamless operation, our meticulously devised plan unfolded into a captivating one-hour symphony scheduled for November 15, 2023. More than just an entertainment escapade, this event was a thoughtful gesture, featuring a delectable lunch and special badges to recognize the invaluable contributions of our unsung heroes. Understanding the transformative power of collaboration, we sought the support of the Leo Club from the University of Colombo, whose involvement became integral to the success of our initiative. This update provides a glimpse into the impactful and collaborative nature of the project "Sahurda Viyamana," emphasizing the significance of expressing gratitude and appreciation within our academic community. `
 	}
