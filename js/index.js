@@ -283,9 +283,18 @@ const testimonials = [
 const newslettersArray = [
 	{
 		"class": "bg-warning-soft",
+		"tag": "Volume 06 Issue 05",
+		"name": "Our Essence Volume 06 Issue 05",
+		"description": "Check out the newly released 5th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"url": "https://anyflip.com/mrfst/eeni",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue05.jpg",
+		"pdf": "https://anyflip.com/mrfst/eeni"
+	},
+	{
+		"class": "bg-warning-soft",
 		"tag": "Volume 06 Issue 04",
 		"name": "Our Essence Volume 06 Issue 04",
-		"description": "Check out the newly released 3rd Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"description": "Check out the newly released 4th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/xdes",
 		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue04.jpg",
 		"pdf": "https://anyflip.com/mrfst/xdes"
@@ -316,99 +325,7 @@ const newslettersArray = [
 		"url": "https://anyflip.com/suhng/phwe/",
 		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue01.jpg",
 		"pdf": "https://anyflip.com/suhng/phwe/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 09",
-		"name": "Our Essence Volume 05 Issue 09",
-		"description": "Check out the newly released 9th Issue of Volume 05 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2022/23.✨\n",
-		"url": "https://anyflip.com/mrfst/xzpw/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue09.jpg",
-		"pdf": "https://anyflip.com/mrfst/xzpw/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 08",
-		"name": "Our Essence Volume 05 Issue 08",
-		"description": "Check out the newly released 8th Issue of Volume 05 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2022/23.✨\n",
-		"url": "https://anyflip.com/mrfst/anva/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue08.jpg",
-		"pdf": "https://anyflip.com/mrfst/anva/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Special Issue",
-		"name": "Our Essence Volume 05 Special Issue",
-		"description": "Check out the Special Issue of Volume 05 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2022/23.✨",
-		"url": "https://anyflip.com/mrfst/vdcu/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_SP_Issue.jpg",
-		"pdf": "https://anyflip.com/mrfst/vdcu/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 07",
-		"name": "Our Essence Volume 05 Issue 07",
-		"description": "We are Leos. We are not only serving ourselves; we all are for others. We all have lives but Leos have bright lives because they have to light up others’ lives too We are experiencing different kinds of experiences in this Leoism journey. We are learning lessons from past experiences and making our future successful.",
-		"url": "https://anyflip.com/mrfst/kbpn/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue07.jpg",
-		"pdf": "https://anyflip.com/mrfst/kbpn/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 06",
-		"name": "Our Essence Volume 05 Issue 06",
-		"description": "We are Leos. We are not only serving ourselves; we all are for others. We all have lives but Leos have bright lives because they have to light up others’ lives too We are experiencing different kinds of experiences in this Leoism journey. We are learning lessons from past experiences and making our future successful.",
-		"url": "https://anyflip.com/mrfst/kbpn/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue06.jpg",
-		"pdf": "https://anyflip.com/mrfst/kbpn/"
-	},
-	{
-
-		// TODO: Add volume 5 issue 5
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 05",
-		"name": "Our Essence Volume 05 Issue 05",
-		"description": "Our Essence’ can be shown as a monthly newsletter that brings the essence of the rich and strong thoughts of our social activists of Leo Club of UOC, which consists of a group of young leaders and undergraduates with various talents. This reflects our strength; our wealth as a social organisation. ",
-		"url": "https://anyflip.com/mrfst/zodm/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue05.jpg",
-		"pdf": "https://anyflip.com/mrfst/zodm/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 04",
-		"name": "Our Essence Volume 05 Issue 04",
-		"description": "Our Essence’ can be shown as a monthly newsletter that brings the essence of the rich and strong thoughts of our social activists of Leo Club of UOC, which consists of a group of young leaders and undergraduates with various talents. This reflects our strength; our wealth as a social organisation. ",
-		"url": "https://anyflip.com/mrfst/zodm/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue04.jpg",
-		"pdf": "https://anyflip.com/mrfst/zodm/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 03",
-		"name": "Our Essence Volume 05 Issue 03",
-		"description": "Far more significant is the fact that we are always ready to extend our helping hand in order to fulfil our mission throughout your future endeavours.",
-		"url": "https://anyflip.com/mrfst/zodm/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue03.jpg",
-		"pdf": "https://anyflip.com/mrfst/zodm/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 02",
-		"name": "Our Essence Volume 05 Issue 02",
-		"description": "A surprising audience showed up for the meeting as a consequence of the effective PR campaign that was run, which stoked excitement in the great event.",
-		"url": "https://anyflip.com/mrfst/ycup/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue02.jpg",
-		"pdf": "https://anyflip.com/mrfst/ycup/"
-	},
-	{
-		"class": "bg-warning-soft",
-		"tag": "Volume 05 Issue 01",
-		"name": "Our Essence Volume 05 Issue 01",
-		"description": "With excitement, we are declaring the beginning of OUR ESSENCE - VOLUME 5 for the Leoistic year 2022/23.",
-		"url": "https://anyflip.com/mrfst/zodm/",
-		"image": "./public/images/newsletters/Our_Essence_Vol05_Issue01.jpg",
-		"pdf": "https://anyflip.com/mrfst/zodm/"
-	},
+	}
 ]
 
 $(window).scroll(function () {
