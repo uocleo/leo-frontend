@@ -519,6 +519,11 @@ $(document).ready(function () {
 
 });
 
+// Chat bot
+window.GPTTConfig = {
+	uuid: "051060e40db8412fbbe3fbe5c6f73615",
+}
+
 
 function getProjectDetails(projectName) {
 
