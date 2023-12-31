@@ -328,6 +328,40 @@ const newslettersArray = [
 	}
 ]
 
+// Background Images
+
+const imageUrls = [
+    "../public/HeroSection1.jpg",
+    "../public/HeroSection2.jpg",
+    "../public/HeroSection3.jpg",
+	"../public/HeroSection4.jpg",
+];
+
+const imageUrlsForCss = imageUrls.map(url => "url(" + url + ")");
+
+let currentImageIndex = 0;
+
+const preloadedImages = [];
+
+function preloadImages(urls) {
+    urls.forEach(function (url) {
+        const img = new Image();
+        img.src = url;
+        preloadedImages.push(img);
+    });
+}
+
+preloadImages(imageUrls);
+
+function changeBackgroundImage() {
+    const heroElement = document.querySelector('.hero');
+    heroElement.style.backgroundImage = imageUrlsForCss[currentImageIndex];
+    currentImageIndex = (currentImageIndex + 1) % imageUrlsForCss.length;
+}
+
+setInterval(changeBackgroundImage, 10000);
+
+
 $(window).scroll(function () {
 	var hT = $('#counter-stats').offset().top,
 		hH = $('#counter-stats').outerHeight(),
