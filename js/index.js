@@ -210,6 +210,13 @@ const projects = [
 		category: 'Continuous',
 		chair: 'Leo Nanduni Ranasinghe',
 		description: `In the inaugural phase of our ongoing project, we embarked on a journey to express our heartfelt gratitude to the often-overlooked minor staff at the Faculty of Management and Finance through a carefully crafted musical ode. With a crystal-clear goal of acknowledging the diligent individuals who serve as the backbone of the faculty's seamless operation, our meticulously devised plan unfolded into a captivating one-hour symphony scheduled for November 15, 2023. More than just an entertainment escapade, this event was a thoughtful gesture, featuring a delectable lunch and special badges to recognize the invaluable contributions of our unsung heroes. Understanding the transformative power of collaboration, we sought the support of the Leo Club from the University of Colombo, whose involvement became integral to the success of our initiative. This update provides a glimpse into the impactful and collaborative nature of the project "Sahurda Viyamana," emphasizing the significance of expressing gratitude and appreciation within our academic community. `
+	},
+	{
+		id: 26,
+		title: 'Nisagini 6.0',
+		chair: 'Damith Kaushalya',
+		category: 'Hunger',
+		description: `The Leo Club of University of Colombo organized project Nisagini for the sixth time in three phases. In our first phase, we decided to help a family with economic difficulties to harvest a fallow field. So for that, we found a family in Wanduramba, Galle who haven’t sufficient income to maintain a paddy field. It was held in November 2023. As our second phase, we planned a food preparation competition for as the second project phase in Ehaliyagoda, Wiyalagoda village in December 2023. Also as our third phase, we decided to make a garden in a town area that doesn't have proper space for gardening. For that, we found an orphanage in Punchi Borella, named Lawris Children's Home, which doesn't have a proper space to make a garden. Special thanks to everyone who joined hands with us until we made our project successful. `
 	}
 
 ];
@@ -281,6 +288,15 @@ const testimonials = [
 ];
 
 const newslettersArray = [
+	{
+		"class": "bg-warning-soft",
+		"tag": "Volume 06 Issue 06",
+		"name": "Our Essence Volume 06 Issue 06",
+		"description": "Check out the newly released 6th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"url": "https://anyflip.com/mrfst/lbbs",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue06.jpg",
+		"pdf": "https://anyflip.com/mrfst/lbbs"
+	},
 	{
 		"class": "bg-warning-soft",
 		"tag": "Volume 06 Issue 05",
