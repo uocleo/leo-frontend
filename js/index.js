@@ -351,6 +351,8 @@ const imageUrls = [
     "../public/HeroSection2.jpg",
     "../public/HeroSection3.jpg",
 	"../public/HeroSection4.jpg",
+	"../public/HeroSection5.png",
+	"../public/HeroSection6.png",
 ];
 
 const imageUrlsForCss = imageUrls.map(url => "url(" + url + ")");
