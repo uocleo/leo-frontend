@@ -485,6 +485,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
 $(document).ready(function () {
 
+	// Get modal element
+const modal = document.getElementById('join-us-modal');
+// Get open modal button
+const modalBtn = document.getElementById('form__button');
+// Get close button
+const closeBtn = document.getElementsByClassName('join-us-modal-closeBtn')[0];
+
+// Listen for open click
+modalBtn.addEventListener('click', openModal);
+// Listen for close click
+closeBtn.addEventListener('click', closeModal);
+// Listen for outside click
+window.addEventListener('click', outsideClick);
+
+// Open modal
+function openModal(){
+  modal.style.display = 'block';
+}
+
+// Close modal
+function closeModal(){
+  modal.style.display = 'none';
+}
+
+// Click outside and close
+function outsideClick(e){
+  if(e.target == modal){
+    modal.style.display = 'none';
+  }
+}
+
 
 	//Current Slide
 	let i = 0;
