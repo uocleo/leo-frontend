@@ -214,9 +214,16 @@ const projects = [
 	{
 		id: 26,
 		title: 'Nisagini 6.0',
-		chair: 'Damith Kaushalya',
+		chair: 'Leo Damith Kaushalya',
 		category: 'Hunger',
 		description: `The Leo Club of University of Colombo organized project Nisagini for the sixth time in three phases. In our first phase, we decided to help a family with economic difficulties to harvest a fallow field. So for that, we found a family in Wanduramba, Galle who haven’t sufficient income to maintain a paddy field. It was held in November 2023. As our second phase, we planned a food preparation competition for as the second project phase in Ehaliyagoda, Wiyalagoda village in December 2023. Also as our third phase, we decided to make a garden in a town area that doesn't have proper space for gardening. For that, we found an orphanage in Punchi Borella, named Lawris Children's Home, which doesn't have a proper space to make a garden. Special thanks to everyone who joined hands with us until we made our project successful. `
+	},
+	{
+		id: 27,
+		title: 'Rang Dey',
+		chair: 'Leo Tharushi Hewajulige',
+		category: 'Public Relations',
+		description: `The Rang Dey took place at Mount Lavinia Sea Pal beach premises which was beautifully adorned with colorful decorations and joyous DJ music with lots of funny games, held on 24th February organized by Leo club university of Colombo proved to be a resounding success. Various activities were set up to accommodate different games, ensuring a dynamic and engaging experience for attendees. It has fostered a sense of inclusivity and unity within our community and Leos while showcasing Leos’ organizing skills. Further eco-friendly colors ensured a safe and enjoyable experience for participants with sustainablity. `
 	}
 
 ];
