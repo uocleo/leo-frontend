@@ -224,6 +224,20 @@ const projects = [
 		chair: 'Leo Tharushi Hewajulige',
 		category: 'Public Relations',
 		description: `The Rang Dey took place at Mount Lavinia Sea Pal beach premises which was beautifully adorned with colorful decorations and joyous DJ music with lots of funny games, held on 24th February organized by Leo club university of Colombo proved to be a resounding success. Various activities were set up to accommodate different games, ensuring a dynamic and engaging experience for attendees. It has fostered a sense of inclusivity and unity within our community and Leos while showcasing Leos’ organizing skills. Further eco-friendly colors ensured a safe and enjoyable experience for participants with sustainablity. `
+	},
+	{
+		id: 28,
+		title: 'Mathin Thora Hetak',
+		chair: 'Leo Kashmira Wijethilaka',
+		category: 'Drug Prevention and Rehabilitation',
+		description: `The Leo Club of University of Colombo organized Project Mathin thora hetak in three phases. In our first phase, we initiate our journey towards a drug-free society. The first phase was held in the Rehabilitation Centre, Piliyandala, on December 3, 2024. In our second phase, we take our message to hospitals and schools. Banners with powerful drug prevention messages are displayed. This project aims to address drug prevention comprehensively, combining motivational education and a community-wide awareness effort to create a positive impact in the fight against substance abuse. In our third phase, we focus on the power of creativity and education. We launch an island-wide art competition that involves schools across Sri Lanka, all dedicated to the cause of drug prevention. The winning school of 6–9 grades is A.B. Sasmitha Dulnith Prince of Wales’ College, Moratuwa. Then we conduct an awareness program to empower students with knowledge and motivation. This program aims to educate students about the critical importance of leading a drug-free life, using creativity and art as a medium for empowerment. We conducted this awareness program in association with Moratuwa Police Station and Lunawa Ayurveda Hospital, Lunawa.`
+	},
+	{
+		id: 29,
+		title: 'Leo Venture Camp',
+		chair: 'Leo Kavindi Wijesinghe',
+		category: 'Fellowship',
+		description: `A group of 30 Leos, including regime members, club members, and eager adventurers, embarked on an early morning journey from the Faculty of Management and Finance, University of Colombo, to Wewathanna, Madamahanuwara, for the inaugural Leo Club Venture Camp. Fueled by excitement and anticipation, the pre-dawn departure marked the beginning of a transformative leadership odyssey. Along the way, camaraderie flourished, and conversations flowed, reinforcing the bonds within the group. Upon reaching Wewathanna, teamwork prevailed as camp was set up amidst the scenic beauty of the mountain range. The campfire became the focal point for leadership development activities, where discussions and shared experiences illuminated the essence of true leadership. As the night unfolded under a starlit sky, laughter, delicious meals, and fellowship filled the air, leaving lasting impressions on all participants. With the sunrise, came reflections on resilience and environmental stewardship, before bidding farewell to Wewathanna, carrying with them the lessons learned and memories cherished. The Leo Venture Camp was not just about reaching a mountain peak, but about scaling new heights of leadership together, with the echoes of laughter and crackling campfire guiding them on future adventures.`
 	}
 
 ];
