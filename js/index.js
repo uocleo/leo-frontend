@@ -238,6 +238,13 @@ const projects = [
 		chair: 'Leo Kavindi Wijesinghe',
 		category: 'Fellowship',
 		description: `A group of 30 Leos, including regime members, club members, and eager adventurers, embarked on an early morning journey from the Faculty of Management and Finance, University of Colombo, to Wewathanna, Madamahanuwara, for the inaugural Leo Club Venture Camp. Fueled by excitement and anticipation, the pre-dawn departure marked the beginning of a transformative leadership odyssey. Along the way, camaraderie flourished, and conversations flowed, reinforcing the bonds within the group. Upon reaching Wewathanna, teamwork prevailed as camp was set up amidst the scenic beauty of the mountain range. The campfire became the focal point for leadership development activities, where discussions and shared experiences illuminated the essence of true leadership. As the night unfolded under a starlit sky, laughter, delicious meals, and fellowship filled the air, leaving lasting impressions on all participants. With the sunrise, came reflections on resilience and environmental stewardship, before bidding farewell to Wewathanna, carrying with them the lessons learned and memories cherished. The Leo Venture Camp was not just about reaching a mountain peak, but about scaling new heights of leadership together, with the echoes of laughter and crackling campfire guiding them on future adventures.`
+	},
+	{
+		id: 30,
+		title: 'Diabcure 6.0',
+		chair: 'LEO ASHANI ERANGA',
+		category: 'DIABETES',
+		description: `The Leo Club of University of Colombo organized project Diabcure for the sixth time in three phases. Our project's initial stage involved donating much-needed medical equipment for diabetic patients to a deserving hospital. Matugama District Hospital was our selected beneficiary, and the donation was successfully delivered on January 20, 2024. Then, in our second phase  we educated pregnant women about diabetes risks at Mattegoda Medical Center and displayed banners at National Eye Hospital in March 2024.  During the third phase, we organized a  ayurvedic medical clinic and entertainment programme for a group of parents at Kahathuduwa Maitri Elderly Home, which took place on March 25, 2024. We extend our heartfelt thanks to all who supported us in ensuring the success of our project across its three phases.`
 	}
 
 ];
