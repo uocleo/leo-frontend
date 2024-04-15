@@ -44,15 +44,6 @@ const projects = [
 		description: 'The main goal of this initiative project " Manusath Wiyamana" is to lay the groundwork needed to raise the standard of living of those living in Sri Lanka\'s rural areas to a certain level. This undertaking is carried out in three stages. Through the first stage of this initiative, we were attempting to guarantee the sanitation of students with special needs at a rural school. So we chose WP/MIN/Ape Lamai Special School in Mirigama and repaired the bathroom of their hostel as the first phase of this project " Manusath Wiyamana" on 24th of March,2023. For the second phase, we chose WP/ HO Eswatta South Junior School as a school to provide electricity to ease out the work for students in that area. This was successfully completed on 4th of April,2023.As for the third Phase, We chose a woman from the Matara, Godagama area to be the project\'s beneficiary because she had the necessary professional credentials and skill training, wanted to start her own business, but struggled to find the money to buy furniture and equipment for a salon. Therefore, we made the decision to locate the salon\'s furnishings and equipment there and it was successfully conducted on 31st of March, 2023.'
 	},
 	{
-		id: 7,
-		title: 'Lead C1',
-		category: 'Youth Empowerment ',
-		chair: 'Leo Sashmini Anuradha ',
-		description: 'Phase 01 - Outbound Training Program for Leos and non-leos to enhance leadership skills, personality development, team spirit building and strategic thinking. Executed date- 4th of March from 8.30 a.m. to 2.30 p.m. at the University of Colombo Premises. The OBT training was conducted by the well trained OBT Instructors of Department of Physical Education, University of Colombo. \n' +
-			'Phase 02 - Entrepreneurship Development Program for young individuals who are enthusiastic about to become an entrepreneurs. Executed date- 23rd March 2023 from 12.30 p.m to 3.30 p.m at the Faculty of Management & Finance, University of Colombo. The Sessions were conducted by the Guest Speakers, Mr. Upali Jayasekara Chairman/Managing Director, MEGA Heaters (Pvt) Ltd. and Dr. Tissa Ravinda Perera Head/Senior Lecturer, Department of Management & Organization Studies, Faculty of Management and Finance, University of Colombo about the topics of ‘Who is an Entrepreneur?’, ‘Financial Literacy for Entrepreneurs and ‘How to Start a Business?’ respectively.\n' +
-			'By executing these two phases of the project Lead C1 we were expected to develop Leadership Skills, Personality development, Strategic thinking, team spirit building, entrepreneurship development and creativity among the youth to prepare them as responsible young adults who change their lives and contribute to the sustainable development of the country as good citizens. Thereby the project Lead C1 has successfully completed by evoking young generation’s true potentials and the leader in themselves. We believe that this attempt has changed their lives and empowered them to be the best version of themselves.'
-	},
-	{
 		id: 8,
 		title: 'Nisagini 5.0',
 		category: 'Hunger ',
