@@ -258,6 +258,16 @@ const projects = [
 		Phase 02: Shaping Our Future Leaders (March 28th, 2024, 8:30 AM - 1:30 PM, S.K.K. Sooriarachchi Secondary School)
 	   In Phase 02 of Project Lead C1, the Youth Empowerment and Leadership Training (YELT) program was developed to empower young leaders identified during Phase 01. The YELT program took place at S.K.K. Sooriarachchi Secondary School, targeting the school's prefects. The program is executed from 8.30 am. to 1.30 p.m. The program focused on developing critical leadership skills such as communication, teamwork, and strategic thinking. Activities like "Lined Up and Pass the Message" were used to improve communication and teamwork, the "Circle Game" was used to foster trust building, and games like "RPS War" and "Number Pick" honed strategic thinking and decision-making.
 	   So the project Lead C1's two distinct phases not only empowered young people with essential leadership skills but also created a ripple effect. By equipping future leaders within the school community, the project ensures a lasting impact on the student body and contributes to a more capable and engaged youth sector in Sri Lanka.`
+	},
+	{
+		id: 33,
+		title: 'Miles of Smiles 5.0',
+		chair: 'Leo Janani Chiranga',
+		category: 'Youth Empowerment',
+		description: `Children are the heart of society, and the "Miles of Smiles 5.0" project will be held for the 5th time in the 2023/24 Leostic. The project was carried out in three phases.
+		On January 3, 2024, we launched phase one at Sri Sangamitta Girls Child Development Center, Pamankada, we donated 500 books and a bookshelf and hosted entertainment with refreshments and gifts. 
+		On Feb 7, 2024, phase two of the project commenced at Sri Chandrasekara Special School, focusing on differently abled children with motivational session conducted by the Occupational Therapist, a Counsellor, and a Psychiatric nurse and entertainment sessions while giving refreshments to them.
+		The final phase of our project held at Methodist High School, Moratuwa completed on April 1, 2024. We Donated five essential lab equipment and conducted a training session.`
 	}
 
 ];
