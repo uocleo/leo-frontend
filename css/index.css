@@ -103,7 +103,7 @@ header {
 
 .hero {
   position: relative;
-  background: url(../public/HeroSection1.jpg);
+  background: url(../public/HeroSection1.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

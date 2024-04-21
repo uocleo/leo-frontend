@@ -345,7 +345,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 08",
 		"description": "Check out the newly released 8th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/opvp",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue08.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue08.webp",
 		"pdf": "https://anyflip.com/mrfst/opvp"
 	},
 	{
@@ -354,7 +354,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 07",
 		"description": "Check out the newly released 7th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/llhq",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue07.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue07.webp",
 		"pdf": "https://anyflip.com/mrfst/llhq"
 	},
 	{
@@ -363,7 +363,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 06",
 		"description": "Check out the newly released 6th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/lbbs",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue06.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue06.webp",
 		"pdf": "https://anyflip.com/mrfst/lbbs"
 	},
 	{
@@ -372,7 +372,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 05",
 		"description": "Check out the newly released 5th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/eeni",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue05.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue05.webp",
 		"pdf": "https://anyflip.com/mrfst/eeni"
 	},
 	{
@@ -381,7 +381,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 04",
 		"description": "Check out the newly released 4th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/xdes",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue04.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue04.webp",
 		"pdf": "https://anyflip.com/mrfst/xdes"
 	},
 	{
@@ -390,7 +390,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 03",
 		"description": "Check out the newly released 3rd Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/ybvj/",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue03.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue03.webp",
 		"pdf": "https://anyflip.com/mrfst/ybvj/"
 	},
 	{
@@ -399,7 +399,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 02",
 		"description": "Check out the newly released 2nd Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/mrfst/oben/",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue02.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue02.webp",
 		"pdf": "https://anyflip.com/mrfst/oben/"
 	},
 	{
@@ -408,7 +408,7 @@ const newslettersArray = [
 		"name": "Our Essence Volume 06 Issue 01",
 		"description": "Check out the newly released 1st Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
 		"url": "https://anyflip.com/suhng/phwe/",
-		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue01.jpg",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue01.webp",
 		"pdf": "https://anyflip.com/suhng/phwe/"
 	}
 ]
@@ -416,14 +416,14 @@ const newslettersArray = [
 // Background Images
 
 const imageUrls = [
-    "../public/HeroSection1.jpg",
-    "../public/HeroSection2.jpg",
-    "../public/HeroSection3.jpg",
-	"../public/HeroSection4.jpg",
-	"../public/HeroSection5.png",
-	"../public/HeroSection6.png",
-	"../public/HeroSection7.png",
-	"../public/HeroSection8.png",
+    "../public/HeroSection1.webp",
+    "../public/HeroSection2.webp",
+    "../public/HeroSection3.webp",
+	"../public/HeroSection4.webp",
+	"../public/HeroSection5.webp",
+	"../public/HeroSection6.webp",
+	"../public/HeroSection7.webp",
+	"../public/HeroSection8.webp",
 ];
 
 const imageUrlsForCss = imageUrls.map(url => "url(" + url + ")");
@@ -443,12 +443,13 @@ function preloadImages(urls) {
 preloadImages(imageUrls);
 
 function changeBackgroundImage() {
+	console.log("Current image: ")
     const heroElement = document.querySelector('.hero');
     heroElement.style.backgroundImage = imageUrlsForCss[currentImageIndex];
     currentImageIndex = (currentImageIndex + 1) % imageUrlsForCss.length;
 }
 
-setInterval(changeBackgroundImage, 10000);
+setInterval(changeBackgroundImage, 5000);
 
 
 $(window).scroll(function () {
