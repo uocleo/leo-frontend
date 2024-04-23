@@ -268,6 +268,15 @@ const projects = [
 		On January 3, 2024, we launched phase one at Sri Sangamitta Girls Child Development Center, Pamankada, we donated 500 books and a bookshelf and hosted entertainment with refreshments and gifts. 
 		On Feb 7, 2024, phase two of the project commenced at Sri Chandrasekara Special School, focusing on differently abled children with motivational session conducted by the Occupational Therapist, a Counsellor, and a Psychiatric nurse and entertainment sessions while giving refreshments to them.
 		The final phase of our project held at Methodist High School, Moratuwa completed on April 1, 2024. We Donated five essential lab equipment and conducted a training session.`
+	},
+	{
+		id: 34,
+		title: 'Be their Vision 8.0',
+		chair: 'Leo Hasini Sandunika',
+		category: 'Vision',
+		description: `Guided by the catchphrase “Bringing Light to the Blind” the Leo Club of University of Colombo successfully concluded the project Be their Vision 8.0 for the eighth consecutive year under the project category Vision.
+		The project was conducted in three phases. As the first phase our team took the initiative of donating white canes to the visually impaired community in partnership with the National Eye Hospital, Colombo. Then continuing, as the second phase, an eye donation campaign was conducted with the cooperation of Sri Lanka Eye Donation Society and was held at Thimbirigasyaya Ashokaramaya and Bellanwila RajamahaViharaya. Finally as the third phase, an awareness session about eye health was organized at the Demataluwa MahaVidyala, Kurunagala. Accordingly, the project was concluded a resounding success. 
+		We extend our sincere gratitude to everyone who partnered with us for their cooperation and support throughout the project making it a huge success. Also a huge thank you goes to our committee members as well as the Leo Club of University of Colombo for their continues dedication throughout the project making it a great success. `
 	}
 
 ];
