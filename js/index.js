@@ -263,7 +263,7 @@ const projects = [
 		id: 33,
 		title: 'Miles of Smiles 5.0',
 		chair: 'Leo Janani Chiranga',
-		category: 'Youth Empowerment',
+		category: 'Spotlight on Children',
 		description: `Children are the heart of society, and the "Miles of Smiles 5.0" project will be held for the 5th time in the 2023/24 Leostic. The project was carried out in three phases.
 		On January 3, 2024, we launched phase one at Sri Sangamitta Girls Child Development Center, Pamankada, we donated 500 books and a bookshelf and hosted entertainment with refreshments and gifts. 
 		On Feb 7, 2024, phase two of the project commenced at Sri Chandrasekara Special School, focusing on differently abled children with motivational session conducted by the Occupational Therapist, a Counsellor, and a Psychiatric nurse and entertainment sessions while giving refreshments to them.
