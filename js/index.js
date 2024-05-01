@@ -277,6 +277,15 @@ const projects = [
 		description: `Guided by the catchphrase “Bringing Light to the Blind” the Leo Club of University of Colombo successfully concluded the project Be their Vision 8.0 for the eighth consecutive year under the project category Vision.
 		The project was conducted in three phases. As the first phase our team took the initiative of donating white canes to the visually impaired community in partnership with the National Eye Hospital, Colombo. Then continuing, as the second phase, an eye donation campaign was conducted with the cooperation of Sri Lanka Eye Donation Society and was held at Thimbirigasyaya Ashokaramaya and Bellanwila RajamahaViharaya. Finally as the third phase, an awareness session about eye health was organized at the Demataluwa MahaVidyala, Kurunagala. Accordingly, the project was concluded a resounding success. 
 		We extend our sincere gratitude to everyone who partnered with us for their cooperation and support throughout the project making it a huge success. Also a huge thank you goes to our committee members as well as the Leo Club of University of Colombo for their continues dedication throughout the project making it a great success. `
+	},
+	{
+		id: 35,
+		title: 'Together as Humans 6.0',
+		chair: 'Leo Thulani Bopegamage',
+		category: 'Quality Education & Literacy',
+		description: `The Leo Club of the University of Colombo proudly presents the 6th version of its "Together as Humans" project, empowering communities through education and opportunity.
+		Phase 1 kicked off on 7th of March 2024 with a vocational training session at Lumbini College, Colombo 05. A VTA resource person equipped students with valuable skills, with the donation of a jigsaw machine and an impact drill machine. Phase 2 focused on fostering literacy across Sri Lanka. The book donations reached schools in five provinces: KN/Pallai Hindu Primary School (Northern), Ch/Sirisujatha Adarsha Vidyalaya (North-Western), B/Karandagolla Vidyalaya (Uva), Puwakpitiya Eswaththa Kanishta (Central), culminating in a grand book donation with stationery packs for G/Batukanaththa Kanishta Vidyalaya on 23rd of March 2024. Phase 3, completed on 9th of April 2024, addressed the digital divide. The project team renovated the computer laboratory at Dharma Pradeepa Vidyalaya, Gambirigaswewa, Anuradhapura, giving students access to crucial technology and equipping them for the future.
+		"Together as Humans 6.0" continues to bridge gaps and create a brighter future for Sri Lankan communities!`
 	}
 
 ];
@@ -348,6 +357,15 @@ const testimonials = [
 ];
 
 const newslettersArray = [
+	{
+		"class": "bg-warning-soft",
+		"tag": "Volume 06 Issue 09",
+		"name": "Our Essence Volume 06 Issue 09",
+		"description": "Check out the newly released 9th Issue of Volume 06 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"url": "https://anyflip.com/mrfst/mznp",
+		"image": "./public/images/newsletters/Our_Essence_Vol06_Issue09.png",
+		"pdf": "https://anyflip.com/mrfst/mznp"
+	},
 	{
 		"class": "bg-warning-soft",
 		"tag": "Volume 06 Issue 08",
