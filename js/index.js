@@ -375,6 +375,17 @@ const projects = [
 		As the second phase, a traffic warden team was established at St. Joseph College in Kolonnawa with the assistance of the police officers of Police Station Wellampitiya. In this phase, the focus was on reducing road accidents and ensuring safety through active participation. The training program was conducted on the 22nd of April, 2024. 
 		Throughout both phases, unwavering support was provided by the school principals, highlighting the collective commitment to promoting safety among schoolchildren.
 		Leo Chamudi Avandhya`
+	},
+	{
+		id: 46,
+		title: 'Kruthaguna 6.0',
+		chair: 'Leo Amaya Hettiwaththa ',
+		category: 'Senior Citizens development ',
+		description: `The project "Kruthaguna 6.0" was executed by the Leo club of University of Colombo with the objective of promoting the well being and the dignity of senior citizens in the community, for the sixth consecutive year. Through targeted efforts, we've made positive contributions to the well-being of elder citizens in our community.
+		The first phase "Sneha" was successfully unfolded on 27th January 2024 at the serene halls of rathgama  Wijayarathne Elders home, Galle. We distributed essential goods, lunch, tea time and gifts with the companionship and joy to uplift and enrich the lives of elders.
+		"Suwadharani" the second phase was held at Kelani Nadee Viharaya, Modara on 16th March,2024 with the participation of seniors aged 55 or above. We offered them  essential healthcare services to address the medical needs of seniors with the collaboration of Army KDU hospital and Modara Maternity home.
+		The 3rd phase of Kruthaguna, "Sanhida" was implemented on 25th April 2024 at University of Colombo with the aim of appreciation of artists in the era of 70's, 80's and 90's of Sri Lanka.. This was flawlessly arranged with student performances and by presenting the videos of their remarkable contributions. Finally we served our heartfelt gratitude for them by trophies as token of appreciation for the services throughout their careers. This phase served as a heartfelt tribute to these artists, recognizing their immense service to the Sri Lankan art industry and ensuring their legacy is cherished for years to come.
+		The project's remarkable success is a result of the dedicated efforts of numerous individuals. From committee members to Club participants and beneficiaries, each played a crucial role in its execution.`
 	}
 
 ];
