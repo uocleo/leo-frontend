@@ -293,7 +293,7 @@ const projects = [
 	{
 		id: 36,
 		title: 'ONE DROP 6.0',
-		chair: 'Leo Thulani Bopegamage',
+		chair: 'Leo Theloka Ranasinghe',
 		category: 'Clean Water and Energy Conservation',
 		description: `The Leo Club of University of Colombo spearheaded Project One Drop 6.0 with impactful initiatives. In Phase I, they collaborated with local authorities to clean up Parevithota river in Ingiriya, planting Kumbuk trees, installing awareness boards, and conducting clean-up activities to enhance water quality. Phase II focused on energy conservation and renewable energy awareness at Central College, Homagama, featuring expert Mr. Indunil Ranwella. Finally, in Phase III, they successfully completed the project by providing clean water access to Bellana Maha Vidyalaya, Matugama, ensuring reliable water supply and promoting better hygiene and sanitation practices. Through community support and collaborative efforts, they achieved their goals in all three phases.`
 	},
