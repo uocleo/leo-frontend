@@ -197,10 +197,13 @@ const projects = [
 	},
 	{
 		id: 25,
-		title: 'Sahurada Viyaman',
+		title: 'Sahurda Viyamana',
 		category: 'Continuous',
 		chair: 'Leo Nanduni Ranasinghe',
-		description: `In the inaugural phase of our ongoing project, we embarked on a journey to express our heartfelt gratitude to the often-overlooked minor staff at the Faculty of Management and Finance through a carefully crafted musical ode. With a crystal-clear goal of acknowledging the diligent individuals who serve as the backbone of the faculty's seamless operation, our meticulously devised plan unfolded into a captivating one-hour symphony scheduled for November 15, 2023. More than just an entertainment escapade, this event was a thoughtful gesture, featuring a delectable lunch and special badges to recognize the invaluable contributions of our unsung heroes. Understanding the transformative power of collaboration, we sought the support of the Leo Club from the University of Colombo, whose involvement became integral to the success of our initiative. This update provides a glimpse into the impactful and collaborative nature of the project "Sahurda Viyamana," emphasizing the significance of expressing gratitude and appreciation within our academic community. `
+		description: `In a heartwarming initiative aimed at fostering mental well-being, the Leo Club of the University of Colombo successfully completed Project Sahurda Viyamana. This project comprised six consecutive phases of musical therapy programs conducted to touch souls through the soothing power of music therapy, catering to various communities in need.
+		Starting in November 2023, each month we dedicated a phase to specific groups. The first phase was organized at the University of Colombo, aiming to bring harmony to the university's minor staff. Subsequent phases unfolded at various locations, including Biyagama Sethma Elderly Home, Homagama Base Hospital's Psychiatric ward, Welikada Prison, Jayaviru Samadi Drug Rehabilitation Institute, and the Rheumatology and Rehabilitation Hospital in Ragama. Each session was facilitated by expert resource persons proficient in music and mental health, ensuring the wellness through insightful explanations about the songs. Additionally, we provided gestures of appreciation like refreshments and gifts to the audience selected for each phase.
+		The positive impact on participants expressed through gratitude from staff and authorities, highlights the project's success in promoting well-being and emotional healing. Throughout Project Sahurda Viyamana, we were able to echo the melody of music within each phase, leaving a feeling of hope and healing in everyone's mind.
+		`
 	},
 	{
 		id: 26,
@@ -286,6 +289,92 @@ const projects = [
 		description: `The Leo Club of the University of Colombo proudly presents the 6th version of its "Together as Humans" project, empowering communities through education and opportunity.
 		Phase 1 kicked off on 7th of March 2024 with a vocational training session at Lumbini College, Colombo 05. A VTA resource person equipped students with valuable skills, with the donation of a jigsaw machine and an impact drill machine. Phase 2 focused on fostering literacy across Sri Lanka. The book donations reached schools in five provinces: KN/Pallai Hindu Primary School (Northern), Ch/Sirisujatha Adarsha Vidyalaya (North-Western), B/Karandagolla Vidyalaya (Uva), Puwakpitiya Eswaththa Kanishta (Central), culminating in a grand book donation with stationery packs for G/Batukanaththa Kanishta Vidyalaya on 23rd of March 2024. Phase 3, completed on 9th of April 2024, addressed the digital divide. The project team renovated the computer laboratory at Dharma Pradeepa Vidyalaya, Gambirigaswewa, Anuradhapura, giving students access to crucial technology and equipping them for the future.
 		"Together as Humans 6.0" continues to bridge gaps and create a brighter future for Sri Lankan communities!`
+	},
+	{
+		id: 36,
+		title: 'ONE DROP 6.0',
+		chair: 'Leo Thulani Bopegamage',
+		category: 'Clean Water and Energy Conservation',
+		description: `The Leo Club of University of Colombo spearheaded Project One Drop 6.0 with impactful initiatives. In Phase I, they collaborated with local authorities to clean up Parevithota river in Ingiriya, planting Kumbuk trees, installing awareness boards, and conducting clean-up activities to enhance water quality. Phase II focused on energy conservation and renewable energy awareness at Central College, Homagama, featuring expert Mr. Indunil Ranwella. Finally, in Phase III, they successfully completed the project by providing clean water access to Bellana Maha Vidyalaya, Matugama, ensuring reliable water supply and promoting better hygiene and sanitation practices. Through community support and collaborative efforts, they achieved their goals in all three phases.`
+	},
+	{
+		id: 37,
+		title: 'ID',
+		chair: 'Leo Harith Induwara',
+		category: 'Infrastructure Development',
+		description: `In response to address the infrastructure gaps within the community, Project “ID” was initiated at Kohalwila Chandarathana Maha Vidyalaya Kaleniya, on 29th April 2024. The project consisted of constructing a much-needed drinking water supply unit for the school ensuring the students have access to clean and safe drinking water. The project was aimed to benefit its 130 students and 13 staff members. The constructions involved the installation of the pipe system, construction of the durable concrete sink, painting of the surrounding walls, installing the water drainage system and the creation of the pathway leading to the sink. Project ID concluded as a resounding success, achieving its objectives of enhancing infrastructure facilities while instilling a sense of convenience and collective effort in the young minds of the students.`
+	},
+	{
+		id: 38,
+		title: 'සත්කාර',
+		chair: 'Leo Janani Aloka ',
+		category: 'Serving Together',
+		description: `The "Project සත්කාර" strives to improve plastic recycling and teach school children the importance of responsible waste disposal. Through this initiative, we aim to instil proper recycling habits and environmental consciousness. The project was completed in two phases. 
+		In the first phase of Project සත්කාර, launched on February 21st, 2024, the Leo Club of the University of Colombo, in collaboration with the Lions Club of Gothatuwa New Century Leo, initiated a commendable environmental effort. The project aims to promote responsible plastic waste management by setting up a PET collection bin in the Faculty of Management and Finance, University of Colombo. District Leo Club Chairperson Lion Dhanushka Sandanayake MAF has given a valuable speech about the significance of responsible plastic bottle disposal. These bins make it easy for people to dispose of used plastic bottles conveniently, thereby facilitating recycling.
+		On April 3rd, 2024, the second phase was implemented at Kottawa North Dharmapala Vidyalaya, the focus shifted to donating waste management equipment and reusable garbage bags for school children, enhancing their understanding of environmental conservation.
+		Through both phases, Project සත්කාර endeavours to empower individuals and communities towards a sustainable future by fostering awareness and practical action.
+		`
+	},
+	{
+		id: 39,
+		title: 'Diyani 7.0',
+		chair: 'Leo Janani Aloka ',
+		category: 'Women Empowerment',
+		description: `Project Diyani 7.0 stands out as one of the most remarkable initiatives organized by the Leo Club of University of Colombo, focusing on women's empowerment. The first phase of the project, comprised an awareness session on domestic violence, gender equality, and the prevention of abuse against women on 7th February 2024, at MAS Intimates – Linea Clothing located in Pallekele. The second phase was initiated concerning International Women’s Day and focused on providing sanitation kits and education on sanitation and good hygiene practices to uplift women’s status and well-being. It was implemented on 7th March 2024 at the Tea Estate in Hatale, Panvila. The third phase of the project, held at the Matugama Divisional Secretariat Office, was a transformative workshop focused on the cosmetic industry on 29th April 2024. The project involves challenging gender norms and stereotypes, reducing discrimination and violence against women, and promoting gender equality and social justice, thereby contributing to creating a resilient society.
+		`
+	},
+	{
+		id: 40,
+		title: 'Leo Super 7\'s',
+		chair: 'Leo Shamod Gammanpila',
+		category: 'Sports & Recreation',
+		description: `The Leo Club of the University of Colombo's Leo Super 7’s 2024 is much more than just an exciting rugby tournament. Phase 1 of the project, held on April 7th, 2024, saw a thrilling competition between state and private university teams at the Colombo University Ground. With support from sponsors, the event brought together over 350 participants and spectators, fostering a vibrant atmosphere around university rugby. The energy was contagious as teams battled it out, with Imperial College emerging victorious, followed by IIT Campus as runners-up and ICBT Colombo clinching the Plate Championship.
+		But Leo Super 7’s goes beyond the pitch. Recognizing the need for sports development at the school level, Phase 2 focused on giving back to the community. On April 29th, the team visited the school K/Walagedara Maha Vidyalaya, donating essential sports equipment like hurdles, footballs, and skipping ropes. The project concluded on April 30th with the donation of a first-aid kit with essential medicines to the University of Colombo's Department of Physical Education. The Leo Super 7’s exemplifies the power of sports to unite and inspire. By combining a competitive tournament with a commitment to community development, the project is making a positive impact on the future of sports in Sri Lanka.		
+		`
+	},
+	{
+		id: 41,
+		title: 'Thirasara 5.0',
+		chair: 'Leo Rizla Ashraff',
+		category: 'Poverty and Better life',
+		description: `Thirasara 5.0 Project, which focused on addressing poverty and enhancing quality of life for communities. This project consisted of two distinct phases, each aimed at different aspects of improving livelihoods and opportunities.
+
+		In the first phase of the project, our focus was on empowering street vendors. We distributed essential goods to street vendors, providing them with the necessary resources to enhance their businesses. This support was crucial in creating a new life page for street foods and the tourism industry. The distribution event took place at Gallface Beach premises, where numerous street vendors benefitted from this initiative. By supporting these vendors, we contributed to economic growth and sustainability in the local community.
+		
+		The second phase of the Thirasara 5.0 Project centered around education and awareness. We conducted an insightful awareness session at the Sathya Education Centre in Badulla. This session specifically targeted students who faced challenges in passing their A/L examinations. Our goal was to introduce these students to the vast opportunities available in the tourism industry. By showcasing alternative pathways and potential career options, we aimed to inspire and guide them towards building a better life.Through Thirasara 5.0, our overarching objective was to uplift communities by tackling poverty and creating avenues for personal and economic growth. These two phases collectively contributed to our vision of a brighter and more inclusive future for all.`
+	},
+	{
+		id: 42,
+		title: 'Sidunala Raksha 7.0',
+		chair: 'Leo Reshani Ruwangika',
+		category: 'Wildlife and life below the water',
+		description: `Two environmental initiatives in Sri Lanka demonstrate proactive efforts to address ecological challenges. "Project Sindunala Raksha 7.0" Phase 01 focuses on marine conservation, conducting successful beach and underwater cleanups in Unawatuna on the 23rd of March, removing 113 kilograms of debris. Participants, supported by local organizations, demonstrate collaborative action to safeguard marine ecosystems. In the second phase, the scope expands to land conservation with a reforestation project in Ragalla, Nuwara Eliya's Piduruthalagala forest area on the 27th of April. Led by a passionate team and backed by corporate support, the initiative aims to restore biodiversity through endemic tree planting, fostering community engagement, and long-term monitoring. Both projects underline the urgency and commitment required to protect Sri Lanka's natural heritage against environmental degradation.`
+	},
+	{
+		id: 43,
+		title: 'The Leo Studio',
+		chair: 'Leo Bimsara Dhanujaya',
+		category: 'Public Relations and Publicity',
+		description: `The Leo Club of the University of Colombo launched The Leo Studio project to enhance their digital presence. In two separate initiatives, they collaborated with experts to explore leadership, corporate responsibility, and personal branding. Despite challenges, they produced captivating videos featuring Leo Lion Rahul Attanayake and Ms. Lalanthi Rajapaksha. These discussions, rich in wisdom and practical advice, resonated with viewers, serving as valuable resources for aspiring leaders and professionals. Through meticulous planning and skilled editing, the club ensured the success of these endeavors, embodying the Leo spirit of collaboration and commitment to empowering individuals. Overall, The Leo Studio project exemplifies their dedication to creating meaningful content that fosters personal and professional growth, driving positive impact within the Leo community and beyond.`
+	},
+	{
+		id: 44,
+		title: 'Arogya',
+		chair: 'Leo Chathura Madushan',
+		category: 'Health and nutrition and food safety',
+		description: `The leo club of University of Colombo organized project Arogya in 3 phases.In the first phase of this project we planned to donate nutrition packets to Sucharithodaya children care center in Maharagama on 11th of february 2024. We organized an awareness program about food safety at Maharagama Buwanekaba Maha Vidyalaya on 5th of March 2024 as the second phase of this project .It focused on improve the  knowledge about food safety and it causes to encourage students towards food safety. In the third phase of our project we did a conversation about non communicable diseases with doctors and nursing staff of Sri Jayawardhanapura General hospital on 28th of April
+		.They explained about symptoms of non communicable diseases , causative factors for non communicable diseases and preventable methods of non communicable diseases in a simple manner.We uploaded this conversation to the official youtube channel of leo club of University of Colombo.`
+	},
+	{
+		id: 45,
+		title: 'Suraki Hetak 7.0',
+		chair: 'Leo Shehan Kumarasinghe',
+		category: 'Road Accident and Crime Prevention',
+		description: `Under the category of accident and crime prevention, the project was embarked upon, aimed at enhancing awareness of road signs and safeguarding students from potential accidents, particularly in urban areas. 
+		As the first phase, a series of vital road signs were painted on the prominent wall of Rajasinha Maha Vidyalaya, Dematagoda. The project commenced on the 20th of April, 2024, with enthusiastic assistance from the artistic club members. The primary objective was to instill a deep understanding of road signs among students, thereby fostering a culture of road safety. 
+		As the second phase, a traffic warden team was established at St. Joseph College in Kolonnawa with the assistance of the police officers of Police Station Wellampitiya. In this phase, the focus was on reducing road accidents and ensuring safety through active participation. The training program was conducted on the 22nd of April, 2024. 
+		Throughout both phases, unwavering support was provided by the school principals, highlighting the collective commitment to promoting safety among schoolchildren.
+		Leo Chamudi Avandhya`
 	}
 
 ];
