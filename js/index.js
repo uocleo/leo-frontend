@@ -318,7 +318,7 @@ const projects = [
 	{
 		id: 39,
 		title: 'Diyani 7.0',
-		chair: 'Leo Janani Aloka ',
+		chair: 'Leo Ayesha Kumaraarachchi',
 		category: 'Women Empowerment',
 		description: `Project Diyani 7.0 stands out as one of the most remarkable initiatives organized by the Leo Club of University of Colombo, focusing on women's empowerment. The first phase of the project, comprised an awareness session on domestic violence, gender equality, and the prevention of abuse against women on 7th February 2024, at MAS Intimates – Linea Clothing located in Pallekele. The second phase was initiated concerning International Women’s Day and focused on providing sanitation kits and education on sanitation and good hygiene practices to uplift women’s status and well-being. It was implemented on 7th March 2024 at the Tea Estate in Hatale, Panvila. The third phase of the project, held at the Matugama Divisional Secretariat Office, was a transformative workshop focused on the cosmetic industry on 29th April 2024. The project involves challenging gender norms and stereotypes, reducing discrimination and violence against women, and promoting gender equality and social justice, thereby contributing to creating a resilient society.
 		`
