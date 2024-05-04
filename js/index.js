@@ -386,6 +386,13 @@ const projects = [
 		"Suwadharani" the second phase was held at Kelani Nadee Viharaya, Modara on 16th March,2024 with the participation of seniors aged 55 or above. We offered them  essential healthcare services to address the medical needs of seniors with the collaboration of Army KDU hospital and Modara Maternity home.
 		The 3rd phase of Kruthaguna, "Sanhida" was implemented on 25th April 2024 at University of Colombo with the aim of appreciation of artists in the era of 70's, 80's and 90's of Sri Lanka.. This was flawlessly arranged with student performances and by presenting the videos of their remarkable contributions. Finally we served our heartfelt gratitude for them by trophies as token of appreciation for the services throughout their careers. This phase served as a heartfelt tribute to these artists, recognizing their immense service to the Sri Lankan art industry and ensuring their legacy is cherished for years to come.
 		The project's remarkable success is a result of the dedicated efforts of numerous individuals. From committee members to Club participants and beneficiaries, each played a crucial role in its execution.`
+	},
+	{
+		id: 47,
+		title: 'Leos Ignite',
+		chair: 'Leo Kashmira Wijethilaka',
+		category: 'Drug Prevention and Rehabilitation',
+		description: `The Leo Club of University of Colombo organized Project Mathin thora hetak in three phases. In our first phase, we initiate our journey towards a drug-free society. The first phase was held in the Rehabilitation Centre, Piliyandala, on December 3, 2024. In our second phase, we take our message to hospitals and schools. Banners with powerful drug prevention messages are displayed. This project aims to address drug prevention comprehensively, combining motivational education and a community-wide awareness effort to create a positive impact in the fight against substance abuse. In our third phase, we focus on the power of creativity and education. We launch an island-wide art competition that involves schools across Sri Lanka, all dedicated to the cause of drug prevention. The winning school of 6–9 grades is A.B. Sasmitha Dulnith Prince of Wales’ College, Moratuwa. Then we conduct an awareness program to empower students with knowledge and motivation. This program aims to educate students about the critical importance of leading a drug-free life, using creativity and art as a medium for empowerment. We conducted this awareness program in association with Moratuwa Police Station and Lunawa Ayurveda Hospital, Lunawa.`
 	}
 
 ];
