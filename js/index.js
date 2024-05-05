@@ -390,9 +390,9 @@ const projects = [
 	{
 		id: 47,
 		title: 'Leos Ignite',
-		chair: 'Leo Kashmira Wijethilaka',
-		category: 'Drug Prevention and Rehabilitation',
-		description: `The Leo Club of University of Colombo organized Project Mathin thora hetak in three phases. In our first phase, we initiate our journey towards a drug-free society. The first phase was held in the Rehabilitation Centre, Piliyandala, on December 3, 2024. In our second phase, we take our message to hospitals and schools. Banners with powerful drug prevention messages are displayed. This project aims to address drug prevention comprehensively, combining motivational education and a community-wide awareness effort to create a positive impact in the fight against substance abuse. In our third phase, we focus on the power of creativity and education. We launch an island-wide art competition that involves schools across Sri Lanka, all dedicated to the cause of drug prevention. The winning school of 6–9 grades is A.B. Sasmitha Dulnith Prince of Wales’ College, Moratuwa. Then we conduct an awareness program to empower students with knowledge and motivation. This program aims to educate students about the critical importance of leading a drug-free life, using creativity and art as a medium for empowerment. We conducted this awareness program in association with Moratuwa Police Station and Lunawa Ayurveda Hospital, Lunawa.`
+		chair: 'Leo Kavindu Piyathissa',
+		category: 'Betterment of Leoism',
+		description: `Project Leos Ignite was organized by the Leo Club of University of Colombo and it is consisted with two phases. In our first phase, we conducted a workshop on abroad education together with the help of ABEC Premier. It was held on 5th March 2024, at the Faculty of Management and Finance premises aiming the undergraduates of University of Colombo. It provided valuable insights and guidance to students interested in abroad education and highlight the importance of it. On 30th April 2024 as the second phase an awarding ceremony was conducted at the faculty of Management and Finance. In that, appreciations and presentation of awards were given to the leos for their remarkable contribution towards the club. It was a resounding success, honoring the best across different criteria. The event served as a reminder of passion and perseverance in shaping a better future.`
 	}
 
 ];
