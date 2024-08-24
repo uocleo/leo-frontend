@@ -393,6 +393,13 @@ const projects = [
 		chair: 'Leo Kavindu Piyathissa',
 		category: 'Betterment of Leoism',
 		description: `Project Leos Ignite was organized by the Leo Club of University of Colombo and it is consisted with two phases. In our first phase, we conducted a workshop on abroad education together with the help of ABEC Premier. It was held on 5th March 2024, at the Faculty of Management and Finance premises aiming the undergraduates of University of Colombo. It provided valuable insights and guidance to students interested in abroad education and highlight the importance of it. On 30th April 2024 as the second phase an awarding ceremony was conducted at the faculty of Management and Finance. In that, appreciations and presentation of awards were given to the leos for their remarkable contribution towards the club. It was a resounding success, honoring the best across different criteria. The event served as a reminder of passion and perseverance in shaping a better future.`
+	},
+	{
+		id: 48,
+		title: 'Ashirwada Pooja',
+		chair: 'Leo Madhuka Amandi',
+		category: 'Project for peace, religious and cultural activities',
+		description: `The Leo Club of University of Colombo hosted Ashirwada Pooja'24 on July 14, 2024, to promote interfaith harmony. The club members visited four different religious places of worship in Bambalapitiya, highlighting the importance of unity in diversity and fraternity. The event was made possible by the cooperation of respected individuals from each place of worship. The club members' dedication and passion for promoting interfaith understanding were evident throughout the event. As the Leoistic year 2024/25 approaches, the spirit of Ashirwada Pooja'24 serves as a powerful example of how interfaith harmony can lead to a more inclusive society.`
 	}
 
 ];
