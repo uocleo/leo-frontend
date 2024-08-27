@@ -400,7 +400,15 @@ const projects = [
 		chair: 'Leo Madhuka Amandi',
 		category: 'Project for peace, religious and cultural activities',
 		description: `The Leo Club of University of Colombo hosted Ashirwada Pooja'24 on July 14, 2024, to promote interfaith harmony. The club members visited four different religious places of worship in Bambalapitiya, highlighting the importance of unity in diversity and fraternity. The event was made possible by the cooperation of respected individuals from each place of worship. The club members' dedication and passion for promoting interfaith understanding were evident throughout the event. As the Leoistic year 2024/25 approaches, the spirit of Ashirwada Pooja'24 serves as a powerful example of how interfaith harmony can lead to a more inclusive society.`
-	}
+	},
+	{
+		id: 49,
+		title: 'Leo Tree Plantation Challenge’ 2024',
+		chair: 'Leo Madhuka Amandi',
+		category: 'Joint Projects with Foreign Leo Clubs / Best International Joint Project',
+		description: `The Leo Tree Plantation Challenge’ 2024, a project done by the Leo Club of University of Colombo, with regard to the International Twinning project, which is “ The Leo Tree Plantation Challenge’ 2024 - Season 5”,  is a global initiative aimed at increasing the number of trees and cultivating a deeper connection between people and the environment. The project was done at Sri Sumangala Balika Maha Vidyalaya, Panadura.  The initiative aims to make a lasting impact on the school, the country, and finally the world. Students, parents, and the school's Environmental Pioneer Brigade contributed us to complete the project, providing manpower and fostering a lifelong commitment to environmental conservation. The project is an ongoing journey, inviting everyone to participate, whether planting their first or hundredth tree. By planting trees, we are not only planting trees but also cultivating a future where humanity and nature coexist in harmony.`
+	},
+
 
 ];
 
