@@ -413,8 +413,18 @@ const projects = [
 		id: 50,
 		title: 'Inaugural Winner Raffle Draw Event',
 		chair: 'Leo Nuhansi Dinanga Weththasingha',
-		category: 'Fund Raising',
+		category: 'Fundraising',
 		description: `On August 29, 2024, at 11 AM, The Leo Club of University of Colombo marked a significant milestone with the successful conclusion of their Big winner raffle draw, organized at the end of their first physical monthly meeting. The event, held at the university premises, saw enthusiastic participation from students and faculty alike, with more than 50 ticket books sold as part of the fundraiser. The primary objective of this event was to raise funds for the Leo Club Fund, which supports various community service projects and initiatives undertaken by the club. The raffle provided a fun and engaging way to involve the university community in a worthy cause while fostering a spirit of camaraderie among participants. The excitement in the room was palpable as three winners were chosen from the pool of entries. The winners, who were thrilled to be part of this historic event, received their prizes from the Executive Board  of the association, adding to the overall atmosphere of celebration. Kalani, the Secretary of the club, presented the first prize to Denethi . The second prize was awarded by Isuru, the Vice President, recognizing another outstanding member. The highlight of the day came when Dihini won the grand prize for her remarkable contributions. The prize was presented by Damith, the President of the club, in a moment of celebration and pride. The event was a memorable occasion, showcasing the club’s appreciation for its dedicated members. The event highlighted the Leo Club commitment to innovation in fundraising and its ongoing efforts to support charitable endeavors. By organizing such creative initiatives, the club not only raises essential funds but also strengthens bonds within the university community, paving the way for future success. The ‘Big Winner’ raffle was more than just an event; it was full of joy, surprises, and life-changing moments for the winners. The organizers have already hinted at making next year's raffle even bigger and better.`
+	},
+
+	{
+		id: 51,
+		title: 'Street Beats',
+		chair: 'Leo Dulanjali Wathsala',
+		category: 'Fundraising',
+		description: `Leo Club of University of Colombo organised a street music event for people with busy lifestyles. The event, known as ‘Street Beats’, wasn’t just about going somewhere and singing songs. It was organised to raise funds for an upcoming project called ‘Diyani’ by the UOC Leo Club.
+		On the evening of 14th September 2024, our members and music team arrived at Galle Face with musical instruments. There were many kids, elders, and young people enjoying themselves. After selecting the best spot, we began our ‘Street Beats’ event. As our music team performed, people were drawn to this special and unexpected event. They enjoyed the songs we sang, and we could feel their appreciation through their feedback. We also sang songs that most people knew, so they sang along with us. 
+		It was a wonderful experience for both us and the people. We performed several times in different spots around Galle Face, and we successfully achieved our main goal of fundraising for the ‘Diyani’ project.`
 	},
 
 
@@ -582,9 +592,9 @@ const newslettersArray = [
 // Background Images
 
 const imageUrls = [
-    "../public/HeroSection1.webp",
-    "../public/HeroSection2.webp",
-    "../public/HeroSection3.webp",
+	"../public/HeroSection1.webp",
+	"../public/HeroSection2.webp",
+	"../public/HeroSection3.webp",
 	"../public/HeroSection4.webp",
 	"../public/HeroSection5.webp",
 	"../public/HeroSection6.webp",
@@ -599,20 +609,20 @@ let currentImageIndex = 0;
 const preloadedImages = [];
 
 function preloadImages(urls) {
-    urls.forEach(function (url) {
-        const img = new Image();
-        img.src = url;
-        preloadedImages.push(img);
-    });
+	urls.forEach(function (url) {
+		const img = new Image();
+		img.src = url;
+		preloadedImages.push(img);
+	});
 }
 
 preloadImages(imageUrls);
 
 function changeBackgroundImage() {
 	console.log("Current image: ")
-    const heroElement = document.querySelector('.hero');
-    heroElement.style.backgroundImage = imageUrlsForCss[currentImageIndex];
-    currentImageIndex = (currentImageIndex + 1) % imageUrlsForCss.length;
+	const heroElement = document.querySelector('.hero');
+	heroElement.style.backgroundImage = imageUrlsForCss[currentImageIndex];
+	currentImageIndex = (currentImageIndex + 1) % imageUrlsForCss.length;
 }
 
 setInterval(changeBackgroundImage, 5000);
@@ -713,35 +723,35 @@ document.addEventListener('DOMContentLoaded', () => {
 $(document).ready(function () {
 
 	// Get modal element
-const modal = document.getElementById('join-us-modal');
-// Get open modal button
-const modalBtn = document.getElementById('form__button');
-// Get close button
-const closeBtn = document.getElementsByClassName('join-us-modal-closeBtn')[0];
+	const modal = document.getElementById('join-us-modal');
+	// Get open modal button
+	const modalBtn = document.getElementById('form__button');
+	// Get close button
+	const closeBtn = document.getElementsByClassName('join-us-modal-closeBtn')[0];
 
-// Listen for open click
-modalBtn.addEventListener('click', openModal);
-// Listen for close click
-closeBtn.addEventListener('click', closeModal);
-// Listen for outside click
-window.addEventListener('click', outsideClick);
+	// Listen for open click
+	modalBtn.addEventListener('click', openModal);
+	// Listen for close click
+	closeBtn.addEventListener('click', closeModal);
+	// Listen for outside click
+	window.addEventListener('click', outsideClick);
 
-// Open modal
-function openModal(){
-  modal.style.display = 'block';
-}
+	// Open modal
+	function openModal() {
+		modal.style.display = 'block';
+	}
 
-// Close modal
-function closeModal(){
-  modal.style.display = 'none';
-}
+	// Close modal
+	function closeModal() {
+		modal.style.display = 'none';
+	}
 
-// Click outside and close
-function outsideClick(e){
-  if(e.target == modal){
-    modal.style.display = 'none';
-  }
-}
+	// Click outside and close
+	function outsideClick(e) {
+		if (e.target == modal) {
+			modal.style.display = 'none';
+		}
+	}
 
 
 	//Current Slide
