@@ -425,6 +425,14 @@ const projects = [
 		description: `Leo Club of University of Colombo organised a street music event for people with busy lifestyles. The event, known as ‘Street Beats’, wasn’t just about going somewhere and singing songs. It was organised to raise funds raise funds for upcoming  projects of the Club. On the evening of 14th September 2024, our members and music team arrived at Galle Face with musical instruments. There were many kids, elders, and young people enjoying themselves. After selecting the best spot, we began our ‘Street Beats’ event. As our music team performed, people were drawn to this special and unexpected event. They enjoyed the songs we sang, and we could feel their appreciation through their feedback. We also sang songs that most people knew, so they sang along with us. It was a wonderful experience for both us and the people. We performed several times in different spots around Galle Face."With every note played and every beat echoed on the streets, music proves that it's not just an art form—it's a universal language that brings us all together."`
 	},
 
+	{
+		id: 52,
+		title: 'Sihina Siththam',
+		chair: '-	Leo Madhuka Amandi',
+		category: 'Spotlight on Children',
+		description: `On 1st of October 2024, Leo Club of University of Colombo celebrated Children’s Day at Sri Vijaya Early Childhood Development Center in Panadura through a heartwarming project named, “Sihina Siththam”. With around 25 children and two teachers, the event featured fun activities, games, dances, and singing performances, all aimed at creating lasting memories. The children received gifts and refreshments, and the day concluded with a vote of thanks, expressing appreciation for the Leo members' efforts. The project reflected the club's commitment to community service and fostering joy and care for the next generation.`
+	},
+
 
 ];
 
