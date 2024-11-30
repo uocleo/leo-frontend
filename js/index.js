@@ -505,6 +505,15 @@ const testimonials = [
 const newslettersArray = [
 	{
 		"class": "bg-warning-soft",
+		"tag": "Volume 07 Issue 04",
+		"name": "Our Essence Volume 07 Issue 04",
+		"description": "Check out the newly released 4th Issue of Volume 07 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
+		"url": "https://anyflip.com/mrfst/reds",
+		"image": "./public/images/newsletters/Our_Essence_Vol07_Issue04.webp",
+		"pdf": "https://anyflip.com/mrfst/reds"
+	},
+	{
+		"class": "bg-warning-soft",
 		"tag": "Volume 07 Issue 03",
 		"name": "Our Essence Volume 07 Issue 03",
 		"description": "Check out the newly released 3rd Issue of Volume 07 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2023/24.✨\n",
