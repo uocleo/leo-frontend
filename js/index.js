@@ -428,11 +428,18 @@ const projects = [
 	{
 		id: 52,
 		title: 'Sihina Siththam',
-		chair: '-	Leo Madhuka Amandi',
+		chair: 'Leo Madhuka Amandi',
 		category: 'Spotlight on Children',
 		description: `On 1st of October 2024, Leo Club of University of Colombo celebrated Children’s Day at Sri Vijaya Early Childhood Development Center in Panadura through a heartwarming project named, “Sihina Siththam”. With around 25 children and two teachers, the event featured fun activities, games, dances, and singing performances, all aimed at creating lasting memories. The children received gifts and refreshments, and the day concluded with a vote of thanks, expressing appreciation for the Leo members' efforts. The project reflected the club's commitment to community service and fostering joy and care for the next generation.`
 	},
 
+	{
+		id: 53,
+		title: 'Poppin\' Crunch - A Delicious Success at the Lions Get-Together',
+		chair: 'Leo Thirangi Hennayake',
+		category: 'Fundraiser',
+		description: `Leo Club of University of Colombo proudly participated in the Lions Get-Together on November 24, 2024, with our vibrant Poppin’ Crunch popcorn stall at the Colombo NCC Ground. Open from 9:00 a.m. to 4:00 p.m., the stall combined fun and fundraising, showcasing the dedication and energy of our club members. Our goal was to raise Rs.10,000, and we are thrilled to announce that we surpassed it! Thanks to the collective effort of our Fundraising Task Force and enthusiastic customers, we generated total revenue of Rs.14,600. After covering the costs of ingredients and labor, we achieved a net profit of Rs.3,990.This milestone was reached by selling 73 packets of popcorn, each priced at Rs.200. Customers raved about the delicious popcorn, and their positive feedback inspired us to push even further. The event highlighted the power of teamwork and our shared mission to create meaningful change. We extend our heartfelt gratitude to everyone who supported the Poppin' Crunch stall and contributed to its success. Stay tuned as we channel these funds into impactful community projects. Your unwavering support drives us forward, and we are excited about the incredible initiatives ahead!`
+	},
 
 ];
 
