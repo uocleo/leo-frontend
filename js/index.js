@@ -650,7 +650,7 @@ const newslettersArray = [
 // Background Images
 
 const imageUrls = [
-	"../public/HeroSection1.webp",
+	"../public/HeroSection1New.webp",
 	"../public/HeroSection2.webp",
 	"../public/HeroSection3.webp",
 	"../public/HeroSection4.webp",
