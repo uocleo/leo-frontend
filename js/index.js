@@ -440,6 +440,13 @@ const projects = [
 		category: 'Fundraiser',
 		description: `Leo Club of University of Colombo proudly participated in the Lions Get-Together on November 24, 2024, with our vibrant Poppin’ Crunch popcorn stall at the Colombo NCC Ground. Open from 9:00 a.m. to 4:00 p.m., the stall combined fun and fundraising, showcasing the dedication and energy of our club members. Our goal was to raise Rs.10,000, and we are thrilled to announce that we surpassed it! Thanks to the collective effort of our Fundraising Task Force and enthusiastic customers, we generated total revenue of Rs.14,600. After covering the costs of ingredients and labor, we achieved a net profit of Rs.3,990.This milestone was reached by selling 73 packets of popcorn, each priced at Rs.200. Customers raved about the delicious popcorn, and their positive feedback inspired us to push even further. The event highlighted the power of teamwork and our shared mission to create meaningful change. We extend our heartfelt gratitude to everyone who supported the Poppin' Crunch stall and contributed to its success. Stay tuned as we channel these funds into impactful community projects. Your unwavering support drives us forward, and we are excited about the incredible initiatives ahead!`
 	},
+	{
+		id: 54,
+		title: 'Sindu Nala Raksha 8.0',
+		chair: 'Leo Gayani Madushika',
+		category: 'Wildlife and Life Below Water',
+		description: `Sindu Nala Raksha 8.0 is a flagship project by Leo Club of University of Colombo, dedicated to wildlife and marine conservation. In Phase 1, educational boards were installed at the butterfly garden in Pinnawala Open Zoo, the only open butterfly garden in Sri Lanka, alongside QR codes linked to an informative video on Sri Lankan leopards. Phase 2 featured a rare medicinal plant initiative at Gangula Weda Madura in Panadura, planting species like Nika and Ankenda to preserve endangered flora. Phase 3 focused on an underwater and beach cleanup in Dodanduwa, removing fishing nets, and included a donation to the Peradeniya Veterinary Department to aid injured wildlife.`
+	},
 
 ];
 
