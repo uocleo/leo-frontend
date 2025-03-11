@@ -502,7 +502,7 @@ const testimonials = [
 			"Leo is a movement where vision turns into action and dedication creates meaningful change. Here, we push boundaries, uplift communities, and grow into the best versions of ourselves. Step up, serve, and shape the future!",
 	},
 	{
-		name: "Leo_Vibhath_Gandarawattha",
+		name: "Leo Vibhath Gandarawattha",
 		job: "Treasurer",
 		image: "./public/images/exco/Leo_Vibhath_Gandarawattha.jpg",
 		testimonial:
@@ -518,7 +518,7 @@ const testimonials = [
 	{
 		name: "Leo Imesh Chandrasekara",
 		job: "Assistant Treasurer",
-		image: "./public/images/exco/Leo_Imesh_Chandrasekara.jpg",
+		image: "./public/images/exco/Leo_Imesh_Chandrasekara.JPG",
 		testimonial:
 			"Leo is about responsibility, trust, and the impact we create together. As we serve, we also learn the value of dedication and teamwork. Let’s handle every challenge with passion and make every effort count. Join with us!",
 	},
