@@ -447,72 +447,80 @@ const projects = [
 		category: 'Wildlife and Life Below Water',
 		description: `Sindu Nala Raksha 8.0 is a flagship project by Leo Club of University of Colombo, dedicated to wildlife and marine conservation. In Phase 1, educational boards were installed at the butterfly garden in Pinnawala Open Zoo, the only open butterfly garden in Sri Lanka, alongside QR codes linked to an informative video on Sri Lankan leopards. Phase 2 featured a rare medicinal plant initiative at Gangula Weda Madura in Panadura, planting species like Nika and Ankenda to preserve endangered flora. Phase 3 focused on an underwater and beach cleanup in Dodanduwa, removing fishing nets, and included a donation to the Peradeniya Veterinary Department to aid injured wildlife.`
 	},
+	{
+		id: 55,
+		title: 'Project Sasiri Hetak: A Journey of Renovation and Hope',
+		chair: 'Leo Maduka Hansamali',
+		category: 'Continues',
+		description: `The Leo Club of the University of Colombo initiated Project Sasiri Hetak as a continuous project for the Leo Club term 2024/2025. This initiative was launched under the renovation theme, with the primary objective of enhancing learning facilities for school students and teachers. To achieve this goal, we focused on renovating classrooms in schools that lacked essential resources, creating a better learning environment for children. For this project, we carefully selected six schools that needed urgent renovation. Our committee members played a crucial role in identifying these schools and laying the groundwork for each phase of the project. The process was challenging, involving various construction and painting tasks. Despite the difficulties, we remained committed to our vision. After months of hard work and dedication, we successfully completed Project Sasiri Hetak, leaving a positive impact on all the schools involved. The appreciation and heartfelt feedback from principals, teachers, and students made all our efforts worthwhile. Seeing the smiles on the children's faces and knowing that we contributed to their education was the greatest reward for our team. Finally, I would like to extend my heartfelt thanks to my committee members and the entire Leo Club. Their unwavering support, teamwork, and dedication played a key role in making this project a success. It was our unity and passion that led to the successful completion of this initiative. Project Sasiri Hetak was not just about renovating classrooms—it was about building hope, inspiring change, and creating a better future for students. We look forward to continuing our journey of service and making an even greater impact in the years to come.
+`
+	},
 
 ];
 
 const testimonials = [
 	{
-		name: "Leo Shamod Gammanpila",
+		name: " Leo Damith Kaushalya",
 		job: "President",
-		image: "./public/images/exco/LeoShamodGammapila.jpg",
+		image: "./public/images/exco/Leo_Damith_Kaushalya.jpg",
 		testimonial:
-			"Be a shining star in our Leo galaxy! Together, we light up the world with service and smiles. Let's make every moment a constellation of kindness.",
+			"Inspired by the spirit of Leo, we are committed to \"Illuminate the way with Radiant Service\" this year. Join our community, discover your inner leader, and help build a sustainable future.",
 	},
 	{
-		name: "Leo Shehan Kumarasinghe",
+		name: "Leo Isuru Sri Dissanayaka",
 		job: "1st Vice President",
-		image: "./public/images/exco/LeoShehanKumarasinghe.jpg",
+		image: "./public/images/exco/Leo_Isuru_Sri_Dissanayaka.jpg",
 		testimonial:
-			"LEO, a global community of young people who are passionate about making a difference in the world. Together, we can achieve great things. Be bold, be brave, and be the change you want to see.",
+			"Leo is a platform where vision meets action, and leadership is forged through service. It challenges us to grow, step beyond our limits, and create meaningful change. As young leaders, we are not just shaping communities—we are shaping ourselves for the future.",
 	},
 	{
-		name: "Leo Rishini Wickramawardana",
+		name: "Leo Pabasara Jayasinghe",
 		job: "2nd Vice President",
-		image: "./public/images/exco/LeoRishiniWickramawardana.jpg",
+		image: "./public/images/exco/Leo_Pabasara_Jayasinghe.jpg",
 		testimonial:
-			"Be a part of our cosmic legacy! We paint the sky with the hues of togetherness. Let's unveil a kingdom of learning, love & leadership.",
+			"Leo is more than service, it's a journey of growth. As university students, we seize this opportunity to develop our skills, leadership, and confidence. Like bright stars, we shine through challenges, turning passion into action. This is the best opportunity of my university life.one that shapes both who I am and who I aspire to be.",
 	},
 	{
-		name: "Leo Archana Dayawansa",
+		name: "Leo Kalani Fernando",
 		job: "Secretary",
-		image: "./public/images/exco/LeoArchanaDayawansa.jpg",
+		image: "./public/images/exco/Leo_Kalani_Fernando.jpg",
 		testimonial:
-			"Join with us to, ‘Ignite the spark of service’, where kindness shines bright and service knows no bounds. Explore our world of compassion, community, and commitment to making a positive difference. Together, we're lighting up lives and creating a better tomorrow, one act of service at a time. Together, we can create a brighter and more compassionate community where the spirit of service thrives.",
+			"Leo is the best platform that you can improve yourself and to expand your social networks with different people who have the best motive to serve the needy people.",
 	},
 	{
-		name: "Leo Nisangi Premarathne",
+		name: "Leo Binomi Wijayasriwardhana",
 		job: "Assistant Secretary",
-		image: "./public/images/exco/LeoNisangiPremarathne.jpg",
+		image: "./public/images/exco/Leo_Binomi_Wijayasriwardhana.jpg",
 		testimonial:
-			"Join us in celebrating the spirit of volunteerism and the collective impact we're making in our community. As enthusiastic young Leos, together we are making a difference, one act of kindness at a time.",
+			"Leo is where service meets passion and leadership finds purpose. It’s a journey of growth, impact, and inspiration. Through every project, we illuminate lives and build a future driven by compassion and unity. Together, we rise as leaders, ready to make a difference.",
 	},
 	{
-		name: "Leo Tharushi Dulshara",
+		name: "Leo Vinodya Dulanjani",
 		job: "Assistant Secretary",
-		image: "./public/images/exco/LeoTharushiDulshara.jpg",
+		image: "./public/images/exco/Leo_Vinodya_Dulanjani.jpg",
 		testimonial:
-			"Leo, where strength and charisma light up the path to greatness! Embrace the positive traits of being a Leo while illuminating the world with your unique lights and confident personalities.",
+			"Leo is a movement where vision turns into action and dedication creates meaningful change. Here, we push boundaries, uplift communities, and grow into the best versions of ourselves. Step up, serve, and shape the future!",
 	},
 	{
-		name: "Leo Kavindu Piyathissa",
+		name: "Leo_Vibhath_Gandarawattha",
 		job: "Treasurer",
-		image: "./public/images/exco/LeoKavinduPiyathissa.jpg",
+		image: "./public/images/exco/Leo_Vibhath_Gandarawattha.jpg",
 		testimonial:
-			"In the spirit of service, we hope to ignite the spark of service within the heart, ignite the spark of service within, and watch as it brightens the world around.",
+			"As a Leo, I'm part of a global family of changemakers, empowering youth through compassionate action and service, rising by lifting others to shape a brighter tomorrow.",
 	},
 	{
-		name: "Leo Ravindu Attanayake",
+		name: "Leo Binaru Januka",
 		job: "Assistant Treasurer",
-		image: "./public/images/exco/LeoRavinduAttanayake.jpg",
+		image: "./public/images/exco/Leo_Binaru_Januka.jpg",
 		testimonial:
-			"Leo is the place where youth leadership shines bright. We positively impact our communities through service, leadership, and friendship. Together we can make a change, one act of kindness at a time.",
+			"Leo is where young leaders rise, turning passion into action. Through service, leadership, and camaraderie, we empower communities and inspire change. Every act of kindness fuels a brighter future—one step at a time.",
 	},
 	{
-		name: "Leo Tharushi Weerasinghe",
+		name: "Leo Imesh Chandrasekara",
 		job: "Assistant Treasurer",
-		image: "./public/images/exco/LeoTharushiWeerasinghe.jpg",
+		image: "./public/images/exco/Leo_Imesh_Chandrasekara.jpg",
 		testimonial:
-			"Empowering young leaders, fostering community spirit, and driving positive change. Join us in our mission to make a difference. Explore our projects, events, and opportunities. Together, let's create a better tomorrow!",
+			"Leo is about responsibility, trust, and the impact we create together. As we serve, we also learn the value of dedication and teamwork. Let’s handle every challenge with passion and make every effort count. Join with us!",
 	},
 ];
 
