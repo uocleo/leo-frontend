@@ -115,7 +115,7 @@ const projects = [
 	},
 	{
 		id: 15,
-		title: 'මතින් තොර හෙටක්',
+		title: 'මතින් තොර හෙටක් 1',
 		category: 'Drug Prevention and Rehabilitation',
 		chair: 'Leo Harshanie Liyanage',
 		description: 'Project “මතින් තොර හෙටක්” is another valuable social mission carried out by the Leo Club of Colombo University with the aim of freeing the youth and the future from drugs in this country. Held in three stages, the first stage was held in Vidyarthodaya National School, Galle on the 25th of April. And the second stage was at 26th of April in “Nawa Jeewana Amadyapa Hada Sewaya” in Galle. As the third phase we conducted a poster campaign in selected public places of our country on 27th of April. In the end, we could provide a better outcome for the community. '
@@ -221,7 +221,7 @@ const projects = [
 	},
 	{
 		id: 28,
-		title: 'Mathin Thora Hetak',
+		title: 'Mathin Thora Hetak 2',
 		chair: 'Leo Kashmira Wijethilaka',
 		category: 'Drug Prevention and Rehabilitation',
 		description: `The Leo Club of University of Colombo organized Project Mathin thora hetak in three phases. In our first phase, we initiate our journey towards a drug-free society. The first phase was held in the Rehabilitation Centre, Piliyandala, on December 3, 2024. In our second phase, we take our message to hospitals and schools. Banners with powerful drug prevention messages are displayed. This project aims to address drug prevention comprehensively, combining motivational education and a community-wide awareness effort to create a positive impact in the fight against substance abuse. In our third phase, we focus on the power of creativity and education. We launch an island-wide art competition that involves schools across Sri Lanka, all dedicated to the cause of drug prevention. The winning school of 6–9 grades is A.B. Sasmitha Dulnith Prince of Wales’ College, Moratuwa. Then we conduct an awareness program to empower students with knowledge and motivation. This program aims to educate students about the critical importance of leading a drug-free life, using creativity and art as a medium for empowerment. We conducted this awareness program in association with Moratuwa Police Station and Lunawa Ayurveda Hospital, Lunawa.`
@@ -455,7 +455,20 @@ const projects = [
 		description: `The Leo Club of the University of Colombo initiated Project Sasiri Hetak as a continuous project for the Leo Club term 2024/2025. This initiative was launched under the renovation theme, with the primary objective of enhancing learning facilities for school students and teachers. To achieve this goal, we focused on renovating classrooms in schools that lacked essential resources, creating a better learning environment for children. For this project, we carefully selected six schools that needed urgent renovation. Our committee members played a crucial role in identifying these schools and laying the groundwork for each phase of the project. The process was challenging, involving various construction and painting tasks. Despite the difficulties, we remained committed to our vision. After months of hard work and dedication, we successfully completed Project Sasiri Hetak, leaving a positive impact on all the schools involved. The appreciation and heartfelt feedback from principals, teachers, and students made all our efforts worthwhile. Seeing the smiles on the children's faces and knowing that we contributed to their education was the greatest reward for our team. Finally, I would like to extend my heartfelt thanks to my committee members and the entire Leo Club. Their unwavering support, teamwork, and dedication played a key role in making this project a success. It was our unity and passion that led to the successful completion of this initiative. Project Sasiri Hetak was not just about renovating classrooms—it was about building hope, inspiring change, and creating a better future for students. We look forward to continuing our journey of service and making an even greater impact in the years to come.
 `
 	},
-
+	{
+		id: 56,
+		title: 'One Drop 7.0',
+		chair: 'Leo Dhananji Umayangika',
+		category: 'Clean Water and Energy Conservation',
+		description: `One Drop 7.0 by Leo Club of University of Colombo focused on environmental conservation, clean water access, and sustainable energy solutions through three impactful phases. Phase 1 Eco Revival restored the Thissa Wewa area by removing waste, planting trees, and installing awareness boards and dustbins to promote environmental responsibility. Phase 2 Hands of Hope, ensured clean drinking water at Lahugala Divisional Hospital by installing a Reverse Osmosis (RO) filtration system, benefiting hospital staff, patients, and the community. Phase 3 Eco Vision, was a case study competition where university students proposed innovative energy solutions in areas like AI-driven efficiency, waste-to-energy, and sustainable transport. The finalists’ reports were published, extending the impact beyond the event. This initiative combined action, awareness, and long-term solutions, creating a lasting impact on both communities and individuals.`
+	},
+	{
+		id: 57,
+		title: 'මතින් තොර හෙටක්',
+		chair: 'Leo Binaru Januka',
+		category: 'Drug Prevention and Rehabilitation',
+		description: `"මතින් තොර හෙටක්" is more than just a project; it’s a movement to build a future free from the grip of drugs. Through its three powerful phases, it has touched lives across different communities. Phase 1 brought the transformative power of music therapy to rehabilitators, offering them hope and healing through melodies and motivation. Phase 2 spread awareness to the masses with a vibrant sticker campaign, making public spaces a canvas for change. Now, in Phase 3, we take our message to the young minds of the nation with an all-island school drama competition, empowering students to become advocates of a drug-free tomorrow. Each phase strengthens our mission, creating ripples of awareness, recovery, and resilience across Sri Lanka.`
+	},
 ];
 
 const testimonials = [
