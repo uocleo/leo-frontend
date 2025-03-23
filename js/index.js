@@ -469,6 +469,13 @@ const projects = [
 		category: 'Drug Prevention and Rehabilitation',
 		description: `"මතින් තොර හෙටක්" is more than just a project; it’s a movement to build a future free from the grip of drugs. Through its three powerful phases, it has touched lives across different communities. Phase 1 brought the transformative power of music therapy to rehabilitators, offering them hope and healing through melodies and motivation. Phase 2 spread awareness to the masses with a vibrant sticker campaign, making public spaces a canvas for change. Now, in Phase 3, we take our message to the young minds of the nation with an all-island school drama competition, empowering students to become advocates of a drug-free tomorrow. Each phase strengthens our mission, creating ripples of awareness, recovery, and resilience across Sri Lanka.`
 	},
+	{
+		id: 58,
+		title: 'Be Their Vision 9.0',
+		chair: 'Leo Himali Herath',
+		category: 'Vision',
+		description: `Project "Be Their Vision 9.0," organized by Leo Club of University of Colombo, was a remarkable initiative focused on eye health and protection. The project had three impactful phases. The first phase included an eye donation campaign at Gangaramaya Temple, with 400 participants, and a huge eye screening program for students, lecturers, and non-academic staff of University of Colombo. The second phase featured an awareness session for pregnant mothers, introducing a QR code-based telemedicine service. The final phase involved donating machines for vision therapy and funds for cataract surgeries at Colombo National Eye Hospital, making a lasting impact on many lives. In that way, we are very pleased to announce the successful completion of the Be Their Vision 9.0 project.`
+	},
 ];
 
 const testimonials = [
