@@ -476,6 +476,14 @@ const projects = [
 		category: 'Vision',
 		description: `Project "Be Their Vision 9.0," organized by Leo Club of University of Colombo, was a remarkable initiative focused on eye health and protection. The project had three impactful phases. The first phase included an eye donation campaign at Gangaramaya Temple, with 400 participants, and a huge eye screening program for students, lecturers, and non-academic staff of University of Colombo. The second phase featured an awareness session for pregnant mothers, introducing a QR code-based telemedicine service. The final phase involved donating machines for vision therapy and funds for cataract surgeries at Colombo National Eye Hospital, making a lasting impact on many lives. In that way, we are very pleased to announce the successful completion of the Be Their Vision 9.0 project.`
 	},
+	{
+		id: 59,
+		title: 'Prarthana 7.0',
+		chair: 'Leo Himali Herath',
+		category: 'Vision',
+		description: `"Prarthana 7.0" was an inspiring, multi-phase initiative aimed at fostering language skills, cultural understanding, and social harmony. It began with Phase 1, empowering students at WP/MIN/Wigoda Maha Vidyalaya through interactive English sessions and learning resources. Phase 2, "Roots and Rhythms," celebrated cultural diversity with a vibrant festival at the Home of Hope Child Home, showcasing traditions from Muslim, Sinhala, Tamil, and Catholic communities. Phase 3, "Unity Rise," equipped trainers at the National Youth Corps Headquarters with conflict resolution and negotiation skills, accompanied by a powerful documentary promoting religious unity. This project stands as a beacon of inclusivity and peace.`
+	},
+
 ];
 
 const testimonials = [
@@ -545,6 +553,15 @@ const testimonials = [
 ];
 
 const newslettersArray = [
+	{
+		"class": "bg-warning-soft",
+		"tag": "Volume 07 Issue 09",
+		"name": "Our Essence Volume 07 Issue 08",
+		"description": "Check out the newly released 8th Issue of Volume 07 of the Official Newsletter of Leo Club of University of Colombo for the Leoistic year 2024/25.✨\n",
+		"url": "https://anyflip.com/mrfst/ztmq",
+		"image": "./public/images/newsletters/Our_Essence_Vol07_Issue08.webp",
+		"pdf": "https://anyflip.com/mrfst/ztmq"
+	},
 	{
 		"class": "bg-warning-soft",
 		"tag": "Volume 07 Issue 07",
