@@ -479,8 +479,8 @@ const projects = [
 	{
 		id: 59,
 		title: 'Prarthana 7.0',
-		chair: 'Leo Himali Herath',
-		category: 'Vision',
+		category: 'Peace, Religious, and Cultural Activities',
+		chair: 'Leo Sachini Imeshika',
 		description: `"Prarthana 7.0" was an inspiring, multi-phase initiative aimed at fostering language skills, cultural understanding, and social harmony. It began with Phase 1, empowering students at WP/MIN/Wigoda Maha Vidyalaya through interactive English sessions and learning resources. Phase 2, "Roots and Rhythms," celebrated cultural diversity with a vibrant festival at the Home of Hope Child Home, showcasing traditions from Muslim, Sinhala, Tamil, and Catholic communities. Phase 3, "Unity Rise," equipped trainers at the National Youth Corps Headquarters with conflict resolution and negotiation skills, accompanied by a powerful documentary promoting religious unity. This project stands as a beacon of inclusivity and peace.`
 	},
 
