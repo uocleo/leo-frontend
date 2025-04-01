@@ -480,8 +480,15 @@ const projects = [
 		id: 59,
 		title: 'Prarthana 7.0',
 		category: 'Peace, Religious, and Cultural Activities',
-		chair: 'Leo Sachini Imeshika',
+		chair: 'Leo Nethmini Rathnayake',
 		description: `"Prarthana 7.0" was an inspiring, multi-phase initiative aimed at fostering language skills, cultural understanding, and social harmony. It began with Phase 1, empowering students at WP/MIN/Wigoda Maha Vidyalaya through interactive English sessions and learning resources. Phase 2, "Roots and Rhythms," celebrated cultural diversity with a vibrant festival at the Home of Hope Child Home, showcasing traditions from Muslim, Sinhala, Tamil, and Catholic communities. Phase 3, "Unity Rise," equipped trainers at the National Youth Corps Headquarters with conflict resolution and negotiation skills, accompanied by a powerful documentary promoting religious unity. This project stands as a beacon of inclusivity and peace.`
+	},
+	{
+		id: 60,
+		title: 'Leo Luna Night 25',
+		category: 'Public Relations',
+		chair: 'Leo Miran Malinga',
+		description: `Leo Luna Night '25, hosted by the Leo Club of University of Colombo on March 14th at The Bourbon Grand Hotel, Homagama, united over 200 Leos, Non-Leos, and Lions for an unforgettable evening of culture, entertainment, and fellowship. The night dazzled with live music, vibrant dances — including the iconic සලු පාලිය — and an exhilarating Leo King and Queen pageant. A lively DJ, interactive games, and a grand buffet fostered camaraderie, while creative branding displays spotlighted Leo's initiatives. This remarkable evening blended joy, tradition, and purpose, strengthening bonds and leaving lasting memories.`
 	},
 
 ];
