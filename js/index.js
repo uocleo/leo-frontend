@@ -491,6 +491,14 @@ const projects = [
 		description: `Leo Luna Night '25, hosted by the Leo Club of University of Colombo on March 14th at The Bourbon Grand Hotel, Homagama, united over 200 Leos, Non-Leos, and Lions for an unforgettable evening of culture, entertainment, and fellowship. The night dazzled with live music, vibrant dances — including the iconic සලු පාලිය — and an exhilarating Leo King and Queen pageant. A lively DJ, interactive games, and a grand buffet fostered camaraderie, while creative branding displays spotlighted Leo's initiatives. This remarkable evening blended joy, tradition, and purpose, strengthening bonds and leaving lasting memories.`
 	},
 
+	{
+		id: 61,
+		title: 'Sahurda Yathra 6.0',
+		category: 'Helping hand to differently abled.',
+		chair: 'Leo Dihini Fernando',
+		description: `Sahurda Yathra 6.0 unfolded in three impactful phases, each dedicated to uplifting vulnerable communities. The first phase, on November 21, 2024, brought joy to children at Sri Chandrasekara Special School by providing essential supplies, a sports storage cupboard, and a lively entertainment program celebrating their talents. The second phase, "Suwa Sneha," on December 24, 2024, extended healthcare, daily necessities, and a fresh coat of paint to the elderly at Mawupiya Sewana, enhancing their well-being and dignity. The final phase, on March 11, 2025, at the Deaf School in Rathmalana, focused on empowerment through motivational talks and a hands-on culinary workshop, equipping students with skills for self-sufficiency. Through these phases, Sahurda Yathra 6.0 reinforced its mission of compassion, inclusion, and empowerment, proving that small acts of kindness can create lasting waves of change. Overall, nearly 300 beneficiaries were impacted across all three phases.`
+	},
+
 ];
 
 const testimonials = [
