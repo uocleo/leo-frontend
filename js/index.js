@@ -498,6 +498,20 @@ const projects = [
 		chair: 'Leo Dihini Fernando',
 		description: `Sahurda Yathra 6.0 unfolded in three impactful phases, each dedicated to uplifting vulnerable communities. The first phase, on November 21, 2024, brought joy to children at Sri Chandrasekara Special School by providing essential supplies, a sports storage cupboard, and a lively entertainment program celebrating their talents. The second phase, "Suwa Sneha," on December 24, 2024, extended healthcare, daily necessities, and a fresh coat of paint to the elderly at Mawupiya Sewana, enhancing their well-being and dignity. The final phase, on March 11, 2025, at the Deaf School in Rathmalana, focused on empowerment through motivational talks and a hands-on culinary workshop, equipping students with skills for self-sufficiency. Through these phases, Sahurda Yathra 6.0 reinforced its mission of compassion, inclusion, and empowerment, proving that small acts of kindness can create lasting waves of change. Overall, nearly 300 beneficiaries were impacted across all three phases.`
 	},
+	{
+		id: 62,
+		title: 'Elicit',
+		category: 'Research',
+		chair: 'Leo Rizla Ashraff',
+		description: `Project Elicit 2025 focused on addressing the challenges of freedom of expression in Sri Lanka. We began by identifying key issues such as press censorship, legal restrictions, and societal pressures. Our team conducted in-depth research, collected perspectives from various stakeholders, and compiled findings into a comprehensive study. The project culminated in a successful research launch ceremony held on March 26, 2025, at the Management and Finance, University of Colombo. The event brought together experts, students, and advocates to reflect on the study’s insights and inspire future action. Project Elicit 2025 marks a meaningful step toward protecting free expression in Sri Lanka.`
+	},
+	{
+		id: 63,
+		title: 'Diyani 8.0',
+		category: 'Women Empowerment',
+		chair: 'Leo Dulanjali Wathsala',
+		description: `Leo Club of University of Colombo proudly launched project Diyani 8.0 under the women empowerment category. This initiative focuses on fostering confidence, knowledge, and opportunities for women across different walks of life. The first phase aimed at educating both girls and boys about sanitation and hygiene practices and also about the mensuration cycle to break traditional taboos while distributing essential sanitary kits. The second phase took us to millennia, where we organised an insightful workshop on women's rights, equality and labour laws to educate and empower women labourers,  ensuring they are aware of their rights and workplace project and to make a safer world for women. The third phase featured an impactful initiative for aspiring entrepreneurs. We hosted a cake competition, providing a platform for women to showcase their baking talent and gain exposure in the industry. As the second initiative of the third phase, we conducted a resin  art workshop, equiping new entrepreneurs with creative skills and business insights to kick start their ventures. Diyani 8.0 was more than just a project. It was a movement towards fostering confidence, economic empowerment,  and self-sufficiency among women. We look forward to continuing this journey of empowerment, creating lasting change in the lives of women across Sri Lanka.`
+	},
 
 ];
 
