@@ -512,6 +512,20 @@ const projects = [
 		chair: 'Leo Dulanjali Wathsala',
 		description: `Leo Club of University of Colombo proudly launched project Diyani 8.0 under the women empowerment category. This initiative focuses on fostering confidence, knowledge, and opportunities for women across different walks of life. The first phase aimed at educating both girls and boys about sanitation and hygiene practices and also about the mensuration cycle to break traditional taboos while distributing essential sanitary kits. The second phase took us to millennia, where we organised an insightful workshop on women's rights, equality and labour laws to educate and empower women labourers,  ensuring they are aware of their rights and workplace project and to make a safer world for women. The third phase featured an impactful initiative for aspiring entrepreneurs. We hosted a cake competition, providing a platform for women to showcase their baking talent and gain exposure in the industry. As the second initiative of the third phase, we conducted a resin  art workshop, equiping new entrepreneurs with creative skills and business insights to kick start their ventures. Diyani 8.0 was more than just a project. It was a movement towards fostering confidence, economic empowerment,  and self-sufficiency among women. We look forward to continuing this journey of empowerment, creating lasting change in the lives of women across Sri Lanka.`
 	},
+	{
+		id: 64,
+		title: 'The 𝐂𝐚𝐫𝐞 𝐆𝐞𝐧',
+		category: 'Health and wellbeing',
+		chair: 'Leo Hansaka Susantha',
+		description: `The 𝐂𝐚𝐫𝐞 𝐆𝐞𝐧 project unfolded in three impactful phases. Phase 1, "𝐇𝐞𝐚𝐥 𝐀𝐫𝐭 " (Feb 19, 2025) at Sri Medananda Maha Vidyalaya, Deepangoda, gathered 216 attendees for health screenings, vision checks, and a breast cancer awareness clinic. Students showcased health-themed artwork, and winners were awarded. Phase 2, "𝐌𝐢𝐧𝐝𝐁𝐥𝐨𝐨𝐦" (Mar 12, 2025) at Mith Sewana, Bellanthara, focused on mental health awareness, engaging 80 special children through creative activities, music, and dance. Medical donations were also provided. Phase 3, "හුස්ම" (March 26, 2025) was a blood donation drive at FMF Hall no.03, collecting 80 pints from 108 participants from university staff and students, supported by the National Blood Transfusion Center`
+	},
+	{
+		id: 65,
+		title: 'Together As Humans 7',
+		category: 'Education and Literacy',
+		chair: 'Leo Binuri Perera',
+		description: `Together as Humans 7.0, led by the Leo Club of the University of Colombo, is a powerful initiative promoting education and literacy. In its two-phase structure, “Future in Focus” supported O/L students at Kottawa Ananda Maha Vidyalaya with an AAT-backed commerce workshop and introduced undergraduates to AI tools in collaboration with the Voice of Ananda Club. The second phase, “TechED Empower,” donated a smart classroom to H/Tangalle Primary School, transforming traditional learning. Widely praised by stakeholders, the project stands as a testament to the club’s commitment to empowering students and shaping brighter futures through innovation and access.`
+	},
 
 ];
 
